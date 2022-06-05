@@ -1,0 +1,1001 @@
+id,city_name,state
+C253c7253-b207-44c5-8992-c16248015967,Los Angeles,CA
+C6477b691-2a29-4348-9918-7ee8c52d3317,San Diego,CA
+Cc7e57a65-680a-4c82-9dba-1511076fd6b6,San Jose,CA
+Cc1c2194b-0df3-49ad-ad58-4ed294da71f8,San Francisco,CA
+C8ea07765-dc94-4da7-a87c-1b1607032b3e,Fresno,CA
+Caefb27c0-ff16-4e94-89c1-512bd6578a90,Sacramento,CA
+C144be8b8-2318-4c2e-9618-8750830ca8eb,Long Beach,CA
+C7aa9cf54-d4e5-4806-9879-5fc9288ce222,Oakland,CA
+C6f499dd6-aa6d-440b-9f42-dd6079d35b5b,Bakersfield,CA
+C2eba4e4a-0ba7-4b78-bc02-c2786bc8be2b,Anaheim,CA
+C09ab00d3-7435-4ede-97f2-ca9dbe729855,Santa Ana,CA
+C7c91c923-17ad-4ad8-b794-5ae76be91beb,Riverside,CA
+Cf9164b82-b7d0-409d-a757-06c5809e4404,Stockton,CA
+C1a0dff67-6af2-4bcb-8a23-26ad8074d7cd,Irvine,CA
+C0df0e176-798d-4a63-88a2-6e99ed35f7a2,Chula Vista,CA
+C30835962-5439-4e88-a00d-5d9a3f9e4cfa,Fremont,CA
+Cb0b3d4b0-1458-4e92-981f-3e1aa9e7f216,San Bernardino,CA
+Cc8479965-08df-4b22-af03-8ed16fb711c7,Modesto,CA
+Cec52a3eb-3bb8-4d91-8759-0577f5271fe0,Fontana,CA
+C5055d984-b77b-41f2-a820-3844cd7c2e13,Santa Clarita,CA
+Ca4b154c2-6a26-4b49-a169-0bfdb46ba974,Moreno Valley,CA
+C5195226c-ce3a-4cbd-9f76-d74dd83baeca,Oxnard,CA
+C0e8393db-0036-41fb-bd7d-cf05b594a4f5,Huntington Beach,CA
+C0a665276-2af7-4bf6-8d21-1ead913f7014,Glendale,CA
+Cfd1f06bf-3da4-4d8e-838f-d2c7b55c9196,Santa Rosa,CA
+C4aeee9cf-52a6-45fe-aea9-1a8abea35d74,Ontario,CA
+C9dee6ab2-e4f6-45b8-b856-29ea2254686f,Rancho Cucamonga,CA
+C809f502e-a5f3-40d0-b80c-871e72c43778,Oceanside,CA
+C1c76a93d-ca99-453a-a96a-978e5cd99a8d,Elk Grove,CA
+Cf2d4787b-9ae6-4f65-955e-5f21eca3bdb3,Garden Grove,CA
+C2c74a801-10cb-460b-be35-8120575e1d9f,Corona,CA
+C37973182-6970-4937-a97d-706615667dbd,Hayward,CA
+Ccc0ebe72-3e25-4255-ab4b-4712a0948346,Lancaster,CA
+Ce483d096-59e0-4d48-992e-13f14bc07862,Salinas,CA
+Cead11ae4-1047-41d4-a517-166b1d1b05ff,Palmdale,CA
+C8a75c3f5-f30a-421c-b60c-091193f4bd7e,Sunnyvale,CA
+C33dc5ae0-a7f3-4ef8-b47f-6a668f44f5bf,Pomona,CA
+C4f8c9321-65e1-4431-9b33-2ec1cad290b8,Escondido,CA
+C954ad380-085e-436b-a723-15a710bee0e7,Torrance,CA
+Ce121f6f5-c5a1-4ac5-8414-689a5380c252,Pasadena,CA
+C18afcc5c-d93a-4799-b1a4-cbc1f3e01161,Fullerton,CA
+C01bb9583-c3de-49c4-a1c3-7d030d08540d,Orange,CA
+C315f13b7-d867-48b3-a7e8-aa42e91aa52f,Roseville,CA
+C27363bef-bbd9-4700-917c-0e73fe034beb,Visalia,CA
+Cbbe53225-03d3-4730-958f-12242f2154fd,Concord,CA
+C979aaab1-7311-442f-ad07-88b2581b7df0,Thousand Oaks,CA
+C7fade275-a0d3-466c-9303-94ee78a1383d,Santa Clara,CA
+C7cbb9768-6e98-4de1-96dd-f3df31a907cc,Simi Valley,CA
+Cd52f57fc-4df5-42ff-babd-4e3c46a07ba3,Berkeley,CA
+Cbf44d6aa-1ba2-468d-9cf9-f30847778b63,Victorville,CA
+Cde6af30a-01e8-42f3-8118-37de58da424e,Vallejo,CA
+C977ff53e-4c3b-411d-b347-bbe24a41ebdf,East Los Angeles,CA
+Cec4729ef-c9f4-4d8b-a742-dcf4cbc30c74,Fairfield,CA
+C870d4eb3-fa61-45d8-89a5-ce16e4da84d3,Carlsbad,CA
+C89e94a05-ad8d-46fa-bc4e-a41fa6ae91a9,Murrieta,CA
+Ce4442a69-a766-4d8d-96af-01c2c5e321fe,El Monte,CA
+Cc4b29549-d274-455c-a2aa-f749f94ba7fa,Temecula,CA
+C4b6f698e-8189-4d9b-8dff-fa9331a01b11,Costa Mesa,CA
+C8d91e54d-6842-46a2-861c-6fd294234971,Clovis,CA
+C02bb79be-3b17-4091-9ea0-792f21307f65,Antioch,CA
+Cd52bb3f1-473d-48bd-a1bd-371b1b394d28,Downey,CA
+C9070eb25-515b-4349-b95c-8e107c3f0e40,Richmond,CA
+C3aab9e93-ef44-4f5a-b42d-42b9f5bd2a4f,Inglewood,CA
+C33242be3-e92f-4149-89fd-7cf71a8909ca,San Buenaventura (Ventura),CA
+C5fc6ab7d-a2ae-49fd-a1db-b29a1e4a7d38,Daly City,CA
+Ca22ff49a-29f6-49a7-a5d3-af34c4cb3f22,Jurupa Valley,CA
+C31f853d1-b626-47b1-a6ec-e0250dec4dd3,West Covina,CA
+Cb7530bbc-65cc-44f3-bea1-6b202862c160,Santa Maria,CA
+C9095cd16-1219-47ad-8f6a-47cbeb4711d9,Norwalk,CA
+C432a8022-b08d-4648-a036-6765b2faa727,San Mateo,CA
+C5f9c2ca4-72fe-422a-b617-817fbec3351b,Rialto,CA
+Cae36ecd3-540f-49a4-9c5d-9962da47864f,Burbank city,CA
+C09cfbcb6-3d53-47d7-bc42-0ea528dff25f,El Cajon,CA
+C148eb39d-c849-414f-b08c-20301ad8dcad,Vista,CA
+Cac68d42e-367d-4bea-908d-7ba95422640b,Vacaville,CA
+Cc90a3ab7-712b-4bac-b2a8-882ddc699414,Chico,CA
+C8131a1fc-0d13-4943-9715-d39f8da0f0fa,San Marcos,CA
+C8977ff9f-1002-4b52-bf98-7dcf27d6f609,Compton,CA
+C48cbb5cc-6721-4fe0-a47e-5ebc3b5d0546,Mission Viejo,CA
+Cb020f1c2-2e89-4421-a3ef-aba942ad3cbf,Hesperia,CA
+Cf5217e8a-6092-4760-ad0e-a49db2f3d2b7,South Gate,CA
+Cadba807c-c966-4ac8-801a-62e9d100c575,Arden-Arcade,CA
+C72f727c9-0659-4c52-8c28-e8d3d1bcd919,Menifee,CA
+C3b69d9b1-54d6-4964-a8cd-b1eb2d643744,Redding,CA
+C167cb559-d5c0-460e-8625-e9f15100e954,Livermore,CA
+C5d9bff7e-d0b4-4c9b-a777-298ac90d918c,Santa Monica,CA
+C14ff4f8d-7cd0-4e9c-8262-83f91a87d9df,Tracy,CA
+C1e09c3f0-dc6c-4294-b66c-2f17b44d2efa,Carson,CA
+Ccbc858e9-94ec-47f6-84c9-a45a17744b44,Santa Barbara,CA
+Cb5eae8eb-3e66-4d84-97da-e288ee0f0665,Westminster,CA
+Cf61f895b-1fd5-4364-a2a0-d3d5aa531386,San Leandro,CA
+C7094916d-dc9e-4354-bb74-c348136268f1,Indio,CA
+C63918b92-93dc-474d-8de2-aad1da3b2439,Chino,CA
+Ce822c09f-a39a-4295-acda-cd348d9cca44,Citrus Heights,CA
+C2f69dac9-a239-47d0-927b-89fd126e8dd0,Newport Beach,CA
+C1fb84ea5-e42b-41b6-a57a-9ea11ebb6957,Hawthorne,CA
+C7aa230b9-0659-487f-95c5-90c2dbcf10d5,Whittier,CA
+C3cd16d97-4d91-4b64-ae00-8cb191f99f31,Hemet,CA
+Cb0510d21-d27a-47df-810e-969e623471d1,Lake Forest,CA
+Cf5556053-8c22-4632-b358-d555e2eab1fd,Redwood City,CA
+Cbaa0940a-0851-408c-9d0f-a273f0c2ffb0,Alhambra,CA
+Cc42c61cf-8987-417c-bd2f-a8a04e702681,Merced,CA
+Cf565f247-61b9-46b6-82ce-54cfcb559f84,Chino Hills,CA
+Ce460d6c2-323e-432e-a964-a439111b39d6,Buena Park,CA
+C80a150c4-4a17-494c-b9b1-c68cacb9b734,San Ramon,CA
+Cd16073bb-8f28-4e30-b6bd-05fa0425a818,Manteca,CA
+C09dcb6c5-b05c-4132-bdff-644306b5dfe8,Tustin,CA
+Ccc1127e4-26d3-4cd7-980c-0335fe929e5f,Mountain View city,CA
+Ca6b0baf5-0e1c-40f8-9313-3cbc4883078e,Pleasanton,CA
+C43f3ae58-4488-4105-8e19-ae87a346a611,Alameda,CA
+Cad695254-5d87-44a8-8e92-4e2d1d90d8d6,Lakewood,CA
+Cd033a77f-2316-43f3-a5e8-8f5c45ec7fde,Folsom,CA
+Cacf97018-1063-48c0-ab28-2c2d0b246073,Napa,CA
+C32377bf3-3325-4a7f-b62f-371331c0fddb,Perris,CA
+C28c52ba0-9668-4402-b2c5-7ec0d767368e,Upland,CA
+Cee3e5d89-b13f-40b1-88c2-f115b31bd2c1,Bellflower,CA
+C1fc2f9c8-a59d-4361-b4b7-5b8912e7ec02,Baldwin Park,CA
+C909f3d5d-040c-43e0-9637-8763cdef51ec,Carmichael,CA
+C72a3c594-9866-4881-9dcd-b75d7dc80f15,Milpitas,CA
+C66a0b10a-5439-4f66-a0b3-4a8881a08d39,Union City,CA
+Cc33b40f7-9120-4c7b-8d9c-e073c1dfac09,Rancho Cordova,CA
+C6fc18702-3376-4f93-ba97-5f53b3bfd331,Apple Valley,CA
+C1b968db2-fa7b-4822-9670-1c335507c75a,Turlock,CA
+C15b1cf82-341c-48d2-b362-108b66422f09,Pittsburg,CA
+C2d3ca37e-8c9d-454a-aa0f-63205992dee9,Redlands,CA
+C6f9bbcc7-7f12-43ae-bc93-39796b90c17c,Walnut Creek,CA
+Cfe704e7a-6256-49b2-9999-e204f7193b76,Lynwood,CA
+C04f051f7-9e58-4159-88a6-15f3dc14526e,Davis,CA
+Ccdfc0930-004c-428c-9af9-302eb06f42ac,Camarillo,CA
+C31f806b9-059b-4c70-9d28-3d05ea5466e0,Yorba Linda,CA
+C5e1baf07-cafb-403d-a16e-e9d3be1c6edd,Palo Alto,CA
+C7436d48c-2686-4dc9-a095-8c3a5884f275,Rocklin,CA
+C37ccf65b-1d7b-45c9-89ba-2aef12db23b4,South San Francisco,CA
+C871e384a-787b-4081-86fe-275464d36775,Redondo Beach,CA
+C72e56324-efd0-40bb-8f66-a25e9852c789,Yuba City,CA
+C293acb56-240d-40c7-a2e5-95cd64191588,Lodi,CA
+C5175c4a4-e1c0-444d-835c-1084a4dc1d23,Eastvale,CA
+Cb6046c46-c05a-4952-a1a7-534aa296e88e,Madera,CA
+C39e19092-d9c2-41cf-8111-f5e40c3c010a,Laguna Niguel,CA
+C2900cc1e-f07a-48fc-8fe8-e1e0e9da95c1,Santa Cruz,CA
+C4c497e13-5cb3-473d-a09d-58743532c666,San Clemente,CA
+C597ff90c-92c5-4472-aff3-7407c5c05751,Florence-Graham,CA
+Ce438fa3a-f6fa-48a9-b979-92c101366f2b,Tulare,CA
+C40f9c400-5123-42af-8701-2457709e6cd4,Castro Valley,CA
+Cece7ad02-e151-49eb-8c6b-3656d50afe14,Lake Elsinore,CA
+C5076c6de-b4fa-484f-8a03-8712f8becff8,Dublin,CA
+Ca6c8ade1-c535-4c1a-9646-64f75f9fd366,Brentwood,CA
+C8c9162c7-d6fb-45e5-afc7-fc5a820ce52b,Encinitas,CA
+Cdfd0bdd7-d808-4118-af27-5a8525be01bf,La Habra,CA
+C7070d885-3e48-437e-8475-0b5eb504c193,Montebello,CA
+C882ccdd4-621e-466a-8491-a3f95bc18510,Pico Rivera,CA
+C41149300-75c9-4f29-a6ee-8ca8da3812cd,National City,CA
+C22df9297-d9de-4848-8875-52e1c0b02972,Petaluma,CA
+C76f17b1f-1669-44d5-9828-b697096cd70e,Monterey Park,CA
+C380c8844-e5d2-480a-8cff-3bc2728afb90,La Mesa,CA
+C3f353bf7-cd6d-4710-940e-b27309d8c913,Cupertino,CA
+C16ff2d02-d30d-405e-a20f-ec6b44689e3f,Woodland,CA
+Ce9d47a72-aa4d-4cd1-a651-510a8feb5922,Gardena,CA
+C7cab4ff4-614b-44a6-9076-52a2efcd0cc3,San Rafael,CA
+Ce4f03fd6-49d3-4af7-a569-de751adc2d6e,Porterville,CA
+C7a3fe132-4671-4202-90d4-6fa0878a1b0a,South Whittier,CA
+C7b0dcd85-ed99-4f2f-b96e-4aaf666f943a,Huntington Park,CA
+C5c70cf1f-f8eb-41cb-bf2b-26053d107e72,Santee,CA
+Cc9e44bb4-3790-469b-adf7-b45c5dcc20ee,Hanford,CA
+Cfe4dd033-7c8e-46c0-9cfb-57b8b5c402aa,Arcadia,CA
+C14a6c6d1-2842-44c2-93f2-d3250ca3f345,Fountain Valley,CA
+C67546cad-ac4c-4f92-8437-cf8c9aa2932c,Diamond Bar,CA
+C089256d0-c120-4341-af7c-97533b1a2041,Hacienda Heights,CA
+Ccbddd905-2835-4f95-a49a-929e4b542dd8,Highland,CA
+Cec601b5c-3222-4713-94ac-89146f1039c4,Gilroy,CA
+Cafb3db71-83e3-4482-bb9c-d5ba9ee00b50,Cathedral City,CA
+C1c3839d9-25cc-48e9-8c0b-1f2d62099256,Yucaipa,CA
+Ccb335504-e316-4b51-87f9-b482cd4861d2,Colton,CA
+Cbb741bc8-13ec-4f0b-aea5-638b349f4fa0,Paramount,CA
+Ca72692ec-7ae0-4ab6-ac05-460f97d5cb73,Rosemead,CA
+C182a6914-ae4f-4a41-87f2-af431d812f68,Novato,CA
+C601b7581-60e9-4cfe-8de1-f4916f8c58fb,West Sacramento,CA
+C0c321a70-6eab-415a-b84d-f671f05eee34,Palm Desert,CA
+Cae219036-4395-4587-9b96-8920606132c0,Delano,CA
+C87f360aa-da24-4ffb-b9e9-0b278d961605,Watsonville,CA
+C8a91da72-1f26-4631-b6ce-be8a61e509ae,Placentia,CA
+C8539ba61-3dbd-4190-8e46-4c2ae9aef93b,Glendora,CA
+Cf5e27b42-5615-4703-8804-3bb6e3623bd0,Aliso Viejo,CA
+C7ff521c3-00cc-40f2-b0ae-ada804e5acc6,Rowland Heights,CA
+Ce103f372-6e12-487d-966c-fe04f43dd305,Poway,CA
+C5adcbb27-a6a0-4855-ba57-6f61a84fed5b,Azusa,CA
+C601cf757-4edd-4ec7-a531-3da6c0222677,Cerritos,CA
+Cd573a432-9f8f-453d-b807-a1855f785d6a,Cypress,CA
+C6f1354bf-2c10-455d-b06c-c91e73a1b348,Florin,CA
+C07f1ed08-7e7b-4d4f-89c8-415b78b7a195,San Jacinto,CA
+C2b15d5c8-5bb6-4312-81e1-9c78bbdb0bb8,North Highlands,CA
+C83a34ced-b170-4e4e-9856-090f6c64be03,Antelope,CA
+C7f22b6da-625e-4d25-8cc4-2e3682090931,Palm Springs,CA
+Cb69ecdfd-99e1-4ea7-ae7f-fa19f3ee1c84,Ceres,CA
+C71a3f1a5-bb8e-4100-ab1b-28c170fac47f,Rancho Santa Margarita,CA
+C42c5dda2-16a8-43f2-ad8e-5c29483cf7dc,Beaumont,CA
+Ca2ed3fed-5e8c-441e-b5f9-7387939ed2d9,La Mirada,CA
+Cb0ae72a1-37d5-4b02-943d-2539dd9f8231,Lincoln,CA
+C61264ded-c5cd-4c42-a7b8-2857975342ab,Newark,CA
+Cfcf1764a-c9bb-46a3-a4bf-d3263762e1ac,Covina,CA
+C392f3446-e710-4bcd-9752-3bd9a45476a0,San Luis Obispo,CA
+Cefd91001-6e3b-4f9d-b581-e17bfc4fbef1,El Dorado Hills,CA
+Ce1c11a89-2856-40d6-a141-9ce291f6d7ba,Coachella,CA
+C4fbbd2f7-1fdb-41b7-bbfd-85d71fa2f2d9,Danville,CA
+C48a1b8cf-5284-4a15-8854-082548e2bf22,Morgan Hill,CA
+Cfb9283d0-2fb0-4e08-9b9a-cc1d7bff8536,San Bruno,CA
+C6abfcb86-d584-4894-911a-10a124e4251d,Brea,CA
+Cacf2ac14-745c-40c2-8601-5bc4a52cf7ea,El Centro,CA
+Cbe53270f-c9a2-4e5e-b558-1803be294b7d,Altadena,CA
+C1967fdb7-0b1b-48d4-8147-cbc95f2dfb13,Campbell,CA
+C8fda57c9-f598-484a-874d-e17184881208,Lompoc,CA
+C22572614-c94b-4e01-b3f3-817edc5efa99,Rohnert Park,CA
+C8cdc9c54-7e6a-46d3-a445-56458a30f12e,Bell Gardens,CA
+C42699d1c-0d3e-4b23-a5fa-e2bc5051acfe,Oakley,CA
+Cfeb73e3c-545d-4bff-94a6-7b4ca2e01323,La Quinta,CA
+Ca1de6d96-564b-4c55-bb92-0252c9e9218c,Rancho Palos Verdes,CA
+C8626edad-6f5d-4b41-808d-7b5a492e6464,San Gabriel,CA
+C48e1a05a-3a6f-4e11-b515-93592e649c02,Hollister,CA
+C10a5c482-1ced-41fe-9acd-6695f9516c24,Montclair,CA
+C770a1517-a999-4d63-99ff-df03fab48e88,Calexico,CA
+C360bd89a-1954-4f79-bc11-0224ec8b61b4,Vineyard,CA
+Cdea0caa7-ba78-44b4-87bc-cfd5c2c4e866,La Puente,CA
+C4b60153f-13e7-48f9-8523-c0bbe1f08a6c,Los Banos,CA
+C11eb426d-3889-416b-90f4-12a360c9d15d,French Valley,CA
+Ca6bc95f9-ac42-4deb-8481-19fb4f06590e,Culver City,CA
+Cad27a3f7-cf08-4690-b3ab-31ec881b1ebc,Pacifica,CA
+Cc708768f-2293-491a-8dd6-5d0212c7907b,Martinez,CA
+Cf8e7ec5e-87d9-4a94-a394-17864ed3033d,Stanton,CA
+C948118b5-e893-4b14-9c64-94cfaa42a778,Monrovia,CA
+Cf2fab30b-c4ac-4617-b14d-4f2ea699ac15,La Presa,CA
+C4b936182-4eb8-4c9d-b975-5aefeeda96b5,Moorpark,CA
+C894d0010-35b7-4638-b13a-5b9256843a9a,Wildomar,CA
+Cbcefd408-bedf-4c2c-ad87-cbbceb7a0b8b,San Juan Capistrano,CA
+C21884e45-0ad6-4e24-9323-50572e8df8b5,Foothill Farms,CA
+C2a823155-fecd-4ff2-b538-b74692e03246,Temple City,CA
+C9f737fca-d51f-4bc4-bc37-287d871afca0,Claremont,CA
+C466245b3-8483-4b44-8dab-4bf1579dae2f,Oildale,CA
+C26306b54-89b2-4308-a1e2-2d353233e490,West Hollywood,CA
+C3b455f7c-5f7a-4c20-9a10-bd6792a40c72,Bell,CA
+C0025eff2-8715-4531-98bc-11d740744813,Menlo Park,CA
+C4efafd09-d306-484c-bbf3-4cf374e153fa,Westmont,CA
+Ce8d6bc68-6fc9-41a0-9ab2-fac0ba4e5072,Manhattan Beach,CA
+Cba146986-deb7-43a5-9f5c-a8e941f4a41f,Orangevale,CA
+Cd782cb34-2382-4c6f-a5d6-646708a35c62,Pleasant Hill,CA
+Cc9b615bd-2ec5-4a41-b13b-d4922f8e348b,Adelanto,CA
+C9aa4d07b-d023-4fb9-85c3-b2df4d6a2cb6,Seaside,CA
+Cfe128e79-a343-4c01-bd04-e5531747a176,San Dimas,CA
+Cafb8601c-4535-45b4-b62e-415c084182e4,Dana Point,CA
+C9a10676a-d9ba-4155-9230-35f8d4ed4abf,Beverly Hills,CA
+C742b6ab7-a33c-462f-97db-ef5965a7d5dc,Foster City,CA
+C434faa47-2220-478c-a9f1-c3b1a9291dee,Lawndale,CA
+C0f67de27-b598-4757-a041-075d2bd87d0a,Fallbrook,CA
+C39a06475-38ea-4c5f-b459-e0ccc81bccc4,La Verne,CA
+C9cc9f50b-6122-48ad-b9a7-e69c745207e3,Goleta,CA
+C45ae0ad9-de3f-4a09-9820-2f37abfecc89,Los Gatos,CA
+C4f75577e-ade4-4712-a3f4-847acdbd1d60,Spring Valley CDP,CA
+C7c45e24b-9ff9-4467-b5a1-cf34c299d267,Laguna Hills,CA
+Cbc6ac1bb-04a4-4540-8699-479e2098ac9a,El Paso de Robles (Paso Robles),CA
+C7bd27fc7-eb5e-44fd-b72c-202ad5dfe5f2,Orcutt,CA
+C45bfd275-2080-45b7-a190-3ca048a7897f,Saratoga,CA
+C6d639a8c-7244-45b6-8267-268d1e602efb,San Pablo,CA
+Cd8f75215-58a8-47d3-a10a-cf640e92ead4,Fair Oaks,CA
+C370396ca-62cd-4369-9b38-2de1d4c39a9f,Los Altos,CA
+Cbfae444e-be31-487c-b690-0d40cb51bf2d,Atascadero,CA
+Ccffd7307-1910-492a-be21-9a0df96f1f3e,Atwater,CA
+C25f230a2-01ae-4b35-8e55-2ffd8b9a2800,Santa Paula,CA
+Caa34f0e1-394f-44a3-885c-a8691c468004,Banning,CA
+C32e9f407-fc4d-4ea0-9b6d-166275a331df,San Lorenzo,CA
+Cdb35d800-b6bf-4e82-978e-12c1bcf7c31e,Burlingame,CA
+C429614d8-b16a-4f15-a01a-411152437f94,East Niles,CA
+Cbcbc7e38-82be-45fb-a030-616c36b5b8cf,Eastern Goleta Valley,CA
+C75280b5a-399d-4663-808e-245aff5abddb,Walnut,CA
+C402cb948-e983-4f6b-89d1-9714918768ee,San Carlos,CA
+C513b131d-2ff3-4e54-b27c-c621f24d5bd4,Suisun City,CA
+C5a75bd3e-f06c-4ed8-bcde-fa42e0aca516,East Palo Alto,CA
+Cdc9c21e9-84fe-4eee-8901-6d4d6095ef6c,Desert Hot Springs,CA
+Cd8c253af-b39a-4ea8-a5e3-353d4256fac4,Ridgecrest,CA
+C5ddb3238-5133-43f7-9345-a074b81248d1,Monterey,CA
+C19d6a877-37cb-4532-8d8c-7445f6b333f8,Temescal Valley,CA
+C8d46c30b-7d7d-4f77-a2fd-1ba7e834681e,Benicia,CA
+C2b44d1ad-d4cf-4885-b666-08752a562fa3,Windsor,CA
+Cf183422d-e052-4367-ba76-f1fba3b26255,Wasco,CA
+Cc5158791-2ee3-42e7-a515-f75b622c7a41,Imperial Beach,CA
+Cd8d04b0f-e494-41a0-9d3c-7c2c8496b13f,Maywood,CA
+C4ac7bd0c-6359-43a7-96a2-ae2a3ab48888,Norco,CA
+C462b8b12-9579-4b8c-8782-4f48a14071e8,Belmont,CA
+C8ccc7755-558d-473f-a3f6-96333b6dc103,Eureka,CA
+Cd108f1c3-e178-4601-a7e3-7558a05012a4,Twentynine Palms,CA
+C2524abd7-47fe-4fa0-a3ce-10d24a5e32b5,Sanger,CA
+C7a46edc8-c17f-4b7c-93b6-3fa65953c58b,Lemon Grove,CA
+Cb3896a88-a02d-4a67-aa7c-78c0517a1093,Galt,CA
+C20ce8f99-5b28-4e0e-9173-e82e7f145b37,West Whittier-Los Nietos,CA
+C430d528c-6123-41b2-b7ee-ef06858fea80,Hercules,CA
+C5c45d0b7-0b56-430a-bb47-7233cb9eff2b,Lafayette,CA
+C2a8d4e9d-f22f-4ee5-8963-517040da14ef,Brawley,CA
+C81c1b1e8-566e-4333-b3c6-8e8471826a2d,Lemoore,CA
+C047b0de8-e10b-4ca5-81de-46334098d4b3,Reedley,CA
+C84bad44f-8a18-4935-bde4-ce71941850ba,Soledad,CA
+C6f78f97d-44a5-466a-be51-13ca7728b142,South Pasadena,CA
+C6ba93ad1-8860-48d3-8d46-b4aef208bcfb,Bay Point,CA
+C278ff985-63b1-4109-ab26-302a30bbc384,El Cerrito city,CA
+C52c646bd-8989-42e0-b0f6-6d99f45dcf7a,North Tustin,CA
+C40541d67-9001-471e-9b61-8bf5fee51668,Ladera Ranch,CA
+Cc5b5b695-2f9a-48d0-a1fb-9d57d3780bf4,Riverbank,CA
+C94e12019-008d-4717-8f8e-630eece4dbdf,Coronado,CA
+Ca4288868-d575-4a51-aecc-4f0ed42f4625,Dinuba,CA
+C705b2568-3145-4043-9201-1bc6303daa7a,Selma,CA
+C8e5f451a-bc7b-4534-a522-908b055d4017,Willowbrook,CA
+C47600fc9-3730-4b2f-b47d-56f12603079f,Seal Beach,CA
+C419d1609-8446-4989-ac8d-df045f6da1a0,San Fernando,CA
+C3ba01399-31df-4814-9d4c-5fb461c612c7,Loma Linda,CA
+C89506578-b9bf-4598-80fe-13b2a7f029c1,Lathrop,CA
+C5e51ec2b-005c-400c-9e6e-9047ba0ff9ef,Calabasas,CA
+C12ad95db-f88c-4d92-8c43-b1cd5519cae2,Rosemont,CA
+Cb7bf2b62-34cd-467b-b367-7851f3935c76,Cudahy,CA
+C24f61984-ea39-4ace-b285-bb3acea0bd24,Ashland,CA
+C4b250a30-f757-4a05-b92e-24b4a8259f46,West Puente Valley,CA
+Cb81d356a-6bc3-4dff-b466-f5fc7335be11,Barstow,CA
+C4031ca00-332c-4e89-81a0-1f162382b96b,East San Gabriel,CA
+C52c20bd8-59df-4a09-9ccb-df6adcdc3667,Millbrae,CA
+C662d2ce0-943b-478c-addb-0d9e523d9b84,Laguna Beach,CA
+Ca9a6a09d-544c-4145-a5b6-758471a0b126,Oakdale,CA
+Cd2477f7a-03cc-4a8d-b67a-373a7b853ded,Granite Bay,CA
+Cea2d51b7-256e-459c-bb9c-368399670b2e,Winter Gardens,CA
+C6034f2cc-61f8-497f-b4eb-9dcb42110606,West Carson,CA
+C685fdc5c-2f71-42a2-a694-6d9dcf95cf9b,Valinda,CA
+C3dfbc490-09fa-4342-b81c-aad30854dbbc,South Lake Tahoe,CA
+C53ae190b-62e5-4b27-9e12-b93481891deb,Lennox,CA
+C8cdc2887-6e56-4324-a7f2-2edb67051c7b,Patterson,CA
+C3eebfb46-f236-4893-8c8a-d10eee2a99ff,Corcoran,CA
+Cd8e21b5e-36d8-42b6-ac70-32bc975c1836,Port Hueneme,CA
+C96272fe4-5e53-45f6-861a-f2b40a6027e2,West Rancho Dominguez,CA
+Cef3f95e5-eaa8-498a-86c0-28a441325cf1,Marina,CA
+C6d48e94d-b00c-44f7-9874-d0d2727754ad,Bloomington,CA
+Cbd841833-cd42-478f-b8fc-d7d164fcf23d,Linda,CA
+C7214daf6-7f96-4c78-8ec0-8a0c186675d6,Yucca Valley,CA
+C8a524e5e-45cb-4ccc-beb8-e47a547777a8,Ramona,CA
+C08b607fc-7330-48c0-9d2a-e5dcff1eaf04,Rancho San Diego,CA
+C1764c9e9-aa25-47bc-a241-2c283dcf2ae7,Duarte,CA
+Cab0e5551-70ce-4e99-9b3d-471595b43948,Mountain House,CA
+C436c2c05-9c1a-4ebd-91ad-d64e7058998f,Arvin,CA
+Ceb0d7503-5307-4776-b3ae-96c6f7c69a44,Lakeside CDP,CA
+Cfa12be09-f84a-44aa-8d25-8ed9d0d20ec9,Mead Valley,CA
+Cf4df0988-64dd-44e7-abdc-39c194c5fd4e,South El Monte,CA
+Cda2ce5fd-5c1f-465e-8752-a6df69662d67,Prunedale,CA
+Cd77ba032-e7d2-4b56-b788-41e28c078cfe,Agoura Hills,CA
+Cf99c1fb7-4b2b-4401-b2e6-2674349cfbcc,American Canyon,CA
+Cd81f869b-7899-42c8-9db1-6e59f2a1008f,Rosamond,CA
+C283594a4-960f-48bd-a45d-139d507f6c87,Lomita,CA
+Ca1bc35f3-9d3b-4f4f-89fa-246434e2acd6,La Crescenta-Montrose,CA
+C3a12ee37-98b1-45e8-8b93-5afe0435a63f,East Hemet,CA
+C8fafbc10-891f-4c40-9b24-c9f4480ce986,Albany,CA
+C6e48fb33-825b-40bf-9545-ccc13df00ae2,Dixon,CA
+C223ec2fa-511f-4de4-be3a-0b921cfe86ef,La Cañada Flintridge,CA
+C6cc7937b-b05b-4e0f-8326-c1efad56640d,Blythe,CA
+Cdb2db167-caf7-4b33-b52c-39c090d64711,Shafter,CA
+Ca07f958c-6dcc-44cc-8811-82f8cab59729,Oroville,CA
+C3a48f21c-0bad-433e-af38-581f9dc2756e,Orinda,CA
+Cda6ec095-f16a-4c4e-932a-88e1c8befcc4,Pinole,CA
+C9737786c-35e3-4201-bddb-362d03c99675,Casa de Oro-Mount Helix,CA
+Ce873030c-eb34-4c0e-9b1a-c78c20a52514,Hermosa Beach,CA
+Ca3b40102-daf5-4298-a368-6a5ad7d9e3d0,South San Jose Hills,CA
+Cb8c0c324-bef8-4808-80bc-c2085545bbe3,Valle Vista,CA
+C77dca57c-c6d1-4b4e-8578-f4649e578909,Phelan,CA
+Cdbf0bd71-f7ee-4a38-8288-a1704faa7884,Rosedale,CA
+C2bf60590-a8ca-4bc9-b45c-19f8f0ba9381,Stevenson Ranch,CA
+Cd5987b73-1265-4802-b58c-0048fa2ed60e,Woodcrest,CA
+C11d683f7-8be5-478a-a546-54079eb75d09,Imperial,CA
+C51821d97-95e6-4c30-aff9-5a3f768d159e,Rancho Mirage,CA
+C03a66e86-caa6-4baf-9698-62df2da21382,Castaic,CA
+C7f775512-704c-4ec3-966e-d99eebc20fab,Chowchilla,CA
+Ce0731fa4-8b20-4eea-960d-a2dcfbda7b81,Cameron Park,CA
+C0ba4a4a1-7e6d-4e92-9d55-5ab0b8079ab0,Arcata,CA
+Cd1cb470c-a57e-4c0f-937b-aa3dca02d253,Nipomo,CA
+C653092af-d937-487d-a9e5-22d3989d94c8,Arroyo Grande,CA
+C14985200-eacc-4711-9060-4b41630e9950,Santa Fe Springs,CA
+C3acfde0e-26d2-4cc5-9294-3af78b2a9f65,Greenfield city,CA
+Ceb971368-1970-49ad-ade3-3a1a47a20045,Paradise town,CA
+Cef08af58-49b9-4f6c-bfbd-783bf763c874,Bostonia,CA
+C942a8050-3766-4cd1-9b00-cb5a20d9f0ed,Coalinga,CA
+Cffb01b23-1781-4366-8dc2-4e0c9ad51ee0,Moraga,CA
+C13fa7084-1ee8-4b26-a2d9-526db1cd54c4,Truckee,CA
+Cab1c6eb8-20bd-4489-9599-78ed8ebfd262,McKinleyville,CA
+C52f59b8d-29da-4174-a1f3-42895f6f2fec,Camp Pendleton South,CA
+Cd591e1fc-47d6-48c7-b423-9f83c1bde727,El Segundo,CA
+C3da82aba-fb3a-45dc-a2cf-f055aa9affae,Live Oak CDP,CA
+C455701f1-1975-4238-94a9-fb0262fb6108,Artesia,CA
+C9c3aff49-bfc8-4f4c-a345-9e27710885fa,Vincent,CA
+C1b4a5096-1047-4dfa-b5ad-7511b9f0b489,Parkway,CA
+C31bec3e9-44d2-4f47-b198-aeb9ccf28977,Stanford,CA
+Cb18e7850-bff3-4be2-9461-1a16f4c07870,Los Osos,CA
+Ce49131be-660f-4105-b7a1-5f3bff4c4e0b,Rio Linda,CA
+C371e59ec-c2d6-489b-bd80-64e27f5c27b2,Laguna Woods,CA
+Cdf7b8ca2-6ba9-4ab6-8864-4ef56a5d4ed0,Ripon,CA
+C9fe00e62-b40f-49f4-92ea-0f3ed4660241,Cherryland,CA
+C4d384e41-71b3-4c9a-8d2c-6fc1b7f187b7,Ukiah,CA
+C32fed029-6566-49d4-8af2-d847fce75726,Walnut Park,CA
+C97601ac3-4b53-4ffa-88ab-43c69d2a156a,Discovery Bay,CA
+Cbdac0f3d-edcd-4d89-9f72-c2f5165842d1,Isla Vista,CA
+C030b2b14-96d9-469b-ab2b-7c839a3f3947,La Palma,CA
+Cfd1de89d-7f3a-4b2c-b6fa-8f44a6cb3b23,Parlier,CA
+C911b1919-712f-4c64-9911-836fae09b59f,Fillmore,CA
+C42823951-e500-4352-8e42-458dee3fc60c,Coto de Caza,CA
+Cb3fc3f5a-0541-4307-9d1c-7c6504a63a77,Pacific Grove,CA
+C962998fc-569d-49e2-bd93-be0d4d599a3c,Clearlake,CA
+C1eac8192-e2c1-4384-a9b4-4b6829b56872,Salida,CA
+C6ed094a4-364a-4e90-8c41-ad4ad954a904,East Rancho Dominguez,CA
+C4e589298-c205-43fd-8ced-8c6d76b7c7b1,Olivehurst,CA
+Cad804eb3-5183-4476-b89b-3d20d820168b,Lemon Hill,CA
+Ca8233d87-d89a-4b28-8a62-7d4989b101f9,North Fair Oaks,CA
+C28d956d3-7cee-4eec-bbd8-22f21f714a8c,Alpine,CA
+Cfaddc0b8-52b4-4c05-a67e-7f9a454ffc8a,Susanville,CA
+C21eedfc5-d0c2-4672-8cb6-dd64b7e7f3e9,Kerman,CA
+C71617d63-57bd-40dc-a225-d7beead88cec,El Sobrante CDP,CA
+C91a570da-c42d-4f85-b8ab-74abf47c69af,Lamont,CA
+Cf167da09-026f-4d81-a772-26005735c015,Mill Valley,CA
+C3f2115da-7bbe-4ec0-8a2a-e99270029eb2,North Auburn,CA
+C150ea56f-65e2-40a3-808c-a077b29409ed,Livingston,CA
+Cb9aca2dd-a189-481f-9264-893ba936e976,Hawaiian Gardens,CA
+Cf552c3a8-780a-4b1b-ae30-83bc61e37604,Auburn,CA
+C5ee4a36a-1d02-46f8-bd9c-3b9b497b0d4e,Red Bluff,CA
+Cbc341582-1fdb-4088-ba7f-299a63a1fd67,Sun Village,CA
+C4bfe5602-d497-4a6e-87a1-ec41f867d088,California City,CA
+C1962b216-6a9c-4ae3-8fa4-e844cd98f3a4,Oak Park,CA
+Cbc98fb16-6b0c-4b53-a14d-fdb07c2a39e6,Alamo,CA
+Cae456241-3756-4a1f-9e7b-2647310510e4,King City,CA
+Cabd67788-f750-48bf-a762-0c688709abc5,Avocado Heights,CA
+C34cb7ca8-6720-4a84-ae54-721084593dc9,Grover Beach,CA
+Ced03262d-abbd-476e-8bbc-775921af75be,Carpinteria,CA
+C7ff1b695-e2e4-4404-aad7-98407ad3c11d,Palos Verdes Estates,CA
+C4ae0a8fe-1221-44a3-80b5-458c84aeb264,Solana Beach,CA
+C3492897f-4a08-4c38-bb8d-dc09e3b49c04,McFarland,CA
+Cb6d26b7a-ee38-4f57-87fb-7e92aa7199b4,El Sobrante,CA
+Cd5959004-02be-4e59-aff1-5374ac429ad9,Avenal,CA
+Ccf14e445-373a-445a-af19-12ea00900321,San Marino,CA
+Cbceef74f-c87d-4386-b700-de597b2d1370,Grass Valley,CA
+Cd5d42da5-26d6-4b62-9410-7feb0c051481,Lindsay,CA
+Ce2cc49ed-52ee-462b-bf05-3d657417de52,Commerce,CA
+Cd6a2dca6-dbba-46ca-aa33-93e7b10784b2,Tehachapi,CA
+C4124a51c-f5d0-4f29-869a-ff575cc5ac0f,San Anselmo,CA
+C8ece3acd-5da2-4129-8cdd-14b8d0ac446d,Big Bear City,CA
+C3e71a640-5e9c-4e35-bc00-8c1ce33b8487,Half Moon Bay,CA
+Ca2e5033d-083e-4951-97bd-47f33da538a6,Grand Terrace,CA
+C3d8d5684-cfc0-4b24-a2a5-61a027ed1fec,Bonita,CA
+C1cf429bb-6bf6-461c-bc1d-c0b6bd20a0b1,Marysville,CA
+C9b990027-47b1-48bd-9d57-5cad41ed9b0f,Larkspur,CA
+Cbc0a55f5-8f1b-4464-814d-a9023bf84708,Lakeland Village,CA
+C11185797-5132-4500-8039-6818504fcdfb,Tamalpais-Homestead Valley,CA
+Ceb20ec30-a950-48e4-a7fe-4621847cece1,Malibu,CA
+C27eacbac-eb4b-4f70-9616-23ef33e7bc15,Mendota,CA
+Cd9057154-c200-4098-a290-e74653900788,Fortuna,CA
+Cc022c915-08df-44f1-babf-371683ade7b3,Kingsburg,CA
+Cd4679160-e4c0-42cd-b446-3cb039bde1fc,Scotts Valley,CA
+C46b5be05-2acf-4f57-8ddf-796e09f438e7,Home Gardens,CA
+C5c4e79ba-bd78-40a8-8b50-718aa518b933,Lake Los Angeles,CA
+C842dfdc5-2937-439c-83d6-673b10a5014d,Healdsburg,CA
+C61fade89-d233-4ec3-8608-2b280641054e,Rossmoor,CA
+Cf57d40b7-cb9b-498a-a675-157b23a035fa,Delhi,CA
+C2a39002f-213e-4215-bae5-5d1a64263ebf,Hillcrest,CA
+Cd1bb7a2a-a8be-493f-8ec4-6e96d4be1910,Alum Rock,CA
+C97a3d0f3-586b-4963-befd-7b9e8a5204f9,Emeryville,CA
+Ca4a93925-cc43-47b6-8ef1-fddd632242a0,University of California-Santa Barbara,CA
+C4ecec53a-402e-425b-84e0-15e5e0216238,View Park-Windsor Hills,CA
+C6fbabd57-9b37-4741-bcc9-54edfdbe2321,Winton,CA
+C32f0d287-ae8d-4753-bb35-c5c51781f40f,Hillsborough,CA
+C4c21efef-3dd0-4682-b2d5-63e22641f554,Clayton,CA
+Cf6c4748b-b8b9-4e7f-9291-036ed9e9c8c5,La Riviera,CA
+C7591b59f-90e3-4943-a265-67953d6b8e3a,Muscoy,CA
+C18d9846f-7ab4-4f2d-8e01-458cc1de7da0,Los Alamitos,CA
+C65718d67-b555-48a9-8e45-6030217c414a,Newman,CA
+C43425605-2e04-4853-a7d2-ad492b914b53,Piedmont,CA
+Cf81afd15-e65f-4411-9039-f4a2d210846c,Magalia,CA
+Cd59a0403-b89b-468c-818f-b40cdf3d4478,Signal Hill,CA
+C762233e6-cbd8-4bed-817e-116d1510b6f4,Diamond Springs,CA
+Ca4a14e77-7d8c-4e7f-8b0b-0e5b28dd8508,Valley Center,CA
+C641527cb-7ca8-4702-934c-8f93c04b6899,Canyon Lake,CA
+Ca0af93e4-d241-451b-a2c1-a523a564a4f6,Sonoma,CA
+C02fa8cdb-0d91-4054-ba61-4a9e2b458508,Placerville,CA
+Cc5ec5e3a-f951-47eb-a6e2-e6b52d422665,Farmersville,CA
+C9426af89-772d-4417-bced-dab6e9c82b22,Fairview,CA
+C01515856-0cbf-4e01-8e41-b2ff71c74387,Potomac Park,CA
+C6e1d7730-6f0d-4670-881e-1e5b9c593f04,Sierra Madre,CA
+C14645372-a9d9-4c22-8512-1eefb807baaa,Soquel,CA
+C9610879d-d232-4a17-b513-4586b8d70dd3,Morro Bay,CA
+C4651df6a-0f20-4ffb-afa7-38edcb8813cf,Blackhawk,CA
+C8f32f912-5795-4996-a819-5c5a1a62ecf8,Anderson,CA
+C66feddf1-56be-4420-9488-1c1e469c3e18,Exeter,CA
+C6c330508-36a2-47f0-b846-5716a8d93661,Del Aire,CA
+C8f8b2db3-e6db-493a-aba4-fac34347083e,Oak Hills,CA
+C4aa5c66a-6074-4d92-9fd6-83b7e92ee958,Quartz Hill,CA
+C9a0d7ae1-fa02-470b-9c2e-776df4c55be1,East Bakersfield,CA
+Cebe69138-d0f8-4dec-a21d-7d178891a3cc,Shasta Lake,CA
+C0f8e1062-c08d-4542-b787-440c443c8c61,Golden Hills,CA
+C977da0db-3af9-4c2c-9b02-7e35f2ee46a8,East Whittier,CA
+C76ff9ad2-a179-401f-b30b-29379ec3ed31,Mentone,CA
+C0d29e153-de6e-40c4-a348-7b6d96d3245e,Orange Cove,CA
+C11c289d9-8a3f-4b1f-884d-25a484a5acfe,Citrus,CA
+Cbad8c3c8-08f4-4b8d-92c4-9a6f11aa2bbe,Garden Acres,CA
+C93c0bd2f-35a2-40de-b758-7bb9a07e9a81,Capitola,CA
+C41637108-21bb-4dd2-9078-a21a21fa52da,Marina del Rey,CA
+C2965bdd8-32e4-480e-a30c-9b6570142202,Rodeo,CA
+C69c2d474-db47-40b2-9170-4e4cb48a0e03,La Cresta and Madera Acres,CA
+C49cec723-96b0-443e-bb3e-36e2ff00866b,Charter Oak,CA
+C0b184885-d49d-47fd-b7e4-57199f4bd35a,Corte Madera,CA
+C20ef1f26-8092-4f06-bdcb-ba6c674c29b7,San Diego Country Estates,CA
+C212a0196-fe09-4d44-8022-93e10edf1182,Lake Arrowhead,CA
+Cd9976b50-2872-4f91-a4ab-6cd91ac37479,Rio del Mar,CA
+Ceec7f9c7-a0e9-49b1-853b-ad47218b84ad,Fort Irwin,CA
+Cb4695e4d-f951-4b12-9b9b-6145d055b712,West Athens,CA
+Cc3de70bc-0250-4dfb-aed7-d58c77f39307,Rio Vista,CA
+Cf3964f42-a6a1-4718-b5db-a189f4868620,Crestline,CA
+C98ccb637-3d89-4038-8965-a45dfbe29a38,Country Club,CA
+C19b8c56a-67f4-4de1-aa8d-f4a7f3256047,Taft,CA
+Cf741f9fc-92fa-40a1-8a8d-3e236d69e3aa,Tiburon,CA
+C9122dec6-cdb7-47ff-bd28-9e942fa77f1b,Calimesa,CA
+C274f36bf-af88-4b02-89f7-fb78c002d19f,University of California-Davis,CA
+C334ddf2a-5f11-4ffc-af2c-f72c8945ab83,Orosi and Earlimart,CA
+C04dc29e8-e1d5-4d8d-9625-65d64cd6bbaa,Waterford,CA
+C224662ae-aef1-4509-8689-0c9c310459e8,Cloverdale,CA
+C288e8d8c-7e27-413c-8b5a-d6607b12ffe9,Live Oak,CA
+C11665f6a-6e38-4085-81fb-49ab8ef7b10e,Midway City,CA
+Ce8b8f0ac-28e1-4691-ab6b-e5983d8c3432,Los Altos Hills,CA
+Cf094dc29-1c82-404e-9fd6-2d0d9a3bfa80,Good Hope,CA
+Cc204ac59-f7f5-4973-90f0-aa08a9c09308,South San Gabriel,CA
+Cd579f3f9-7dfd-4dd4-87f1-875ef32f6deb,Heber,CA
+Cac2ee9ec-adf3-489b-b715-f052c5366ba2,Spring Valley Lake,CA
+C4ace6153-1244-432a-ae9c-f305bbe870f9,Gonzales,CA
+Cbcd33c05-1139-496e-8ef4-08dc82d8e1cd,Mammoth Lakes,CA
+C37f8eb3e-e369-4f0d-83e7-b4ab29543e31,Montecito,CA
+C60d43e82-3e6a-4b28-b754-e49f9a87de79,Westlake Village,CA
+C386e7e66-670c-45a0-803a-0cd24f311c38,Thousand Palms,CA
+C7c10ca94-e08f-4499-b5e7-6e7ee01774b2,Topanga,CA
+Cbed243d5-6fdb-44f8-8cc8-73a89cca77d3,Oroville East,CA
+C53205a37-6966-411e-aab2-f1b9f4d5f0dd,Larkfield-Wikiup,CA
+Cd04e5af1-4c88-4fd4-9ef6-d18548488554,August,CA
+Cb129eddf-435e-4a6e-803a-b2727843fba8,Pismo Beach,CA
+Cfe678b67-2876-4ff9-86fb-3128f9ece270,Cherry Valley,CA
+Ca3a9ae59-29c0-4682-81c6-29b45e3dc9c8,Rolling Hills Estates,CA
+C93f7c250-4825-482d-9519-54505dc44eef,Boyes Hot Springs,CA
+Cbe690151-d41b-488e-98e6-bb79d18721bf,Alondra Park,CA
+C864d493b-b2ad-4620-bc3e-181bc24e5167,Templeton,CA
+Ccac3497a-f439-42c9-b8db-8742f17a9232,Vandenberg Village,CA
+Ca928ce01-dece-44a5-a1fb-c67c09ad393b,Gold River,CA
+C027045ff-a69d-46b5-9c97-d53cc2e85444,Ione,CA
+C8b344ef1-1ca8-4036-bb7b-8bcc84be1fdc,Orland,CA
+C0bdaddb0-5c50-4474-a652-ff74101afb9e,Rancho Mission Viejo,CA
+C3bd4cc57-87a5-4521-be5d-2567ecbc7533,Joshua Tree,CA
+C2d8ffc85-be3f-4533-ac3b-95d809628fe8,Firebaugh,CA
+C83151418-194f-4b8c-b4cf-0fabfd22323c,California Polytechnic State University,CA
+C0cc3bccd-0f63-4d03-b60c-3f20fc6db075,Franklin CDP,CA
+C95f706f7-de19-4205-bfc4-ca562af29cdd,Woodlake,CA
+C48f308f8-ddcc-44b6-bac5-7524da70436b,Plumas Lake,CA
+C6871f175-8153-460a-af41-efe4fd84ac67,Sebastopol,CA
+C92ea7731-4f2e-42d2-8e27-fb5cb7bc8784,Guadalupe,CA
+Cb39eca5c-e2d6-48ba-b5ba-69606bbed361,Fairfax town,CA
+Cc784930f-1663-42b8-ae84-91bb439fc68b,Alta Sierra CDP,CA
+C3f96f41d-84fa-478b-b839-af54770ece5d,Homeland and Ojai,CA
+Cdb8951e8-a6f6-4890-a029-18a6bbaa7646,Oceano,CA
+C2861d19d-92c3-4b92-8868-e386f9f3ddb3,Interlaken,CA
+C4e43f688-63c1-4bbd-a543-36c9e03a57db,Yreka and Corning,CA
+Cffe4cdeb-bf8e-4482-9af8-1f7d643869c8,Escalon,CA
+C6102e6a6-5d0e-4d25-aa88-14c9da641223,Hughson,CA
+C73198184-9a9a-479a-9ce1-9e470d36582c,Cotati,CA
+C7e9d44f7-2740-4f98-906e-6cedcae2e06f,Camp Pendleton Mainside,CA
+Ca2fa82d0-d80d-41b1-8dfa-88a70804a25b,Kentfield,CA
+Cefe0da31-d8e7-435f-aa91-75074fc419ae,Lake Mathews,CA
+C245524c3-6880-42cb-8215-61c965109969,Ben Lomond,CA
+C24ca796c-4826-4c99-a659-f16cc526dbd1,Winters,CA
+C76b46ed9-8daf-4d62-927a-2e14f355e68c,Fort Bragg,CA
+C96586937-2d73-405a-afe3-3b2b1888a386,Calipatria,CA
+C995dbff6-f6fb-4d29-af3c-978a43e7af74,Sausalito,CA
+C45ca3665-4e88-4991-906a-1c5fe673cfbc,Gridley,CA
+C60a431ee-2b0e-4aee-a511-f454dfc0448b,Huron,CA
+C128852be-db8d-4e9f-9bd2-af5fca4f8095,Atherton,CA
+C90cf15cb-1258-4f1a-a34a-8550cb1e6652,Acton,CA
+Cab91e9d4-043a-46ca-b43d-d8085f2e5843,Nuevo,CA
+Cb39c1012-9869-4efc-841b-6a69edc1a018,Piñon Hills,CA
+C2d60d36b-d318-468c-a186-fee67b54aa1a,Mira Monte,CA
+Cec74725e-773a-45c2-a8fb-aba946ee1f83,East Foothills,CA
+Cbc4ee452-2391-467d-8c1f-f859146f8220,Loomis,CA
+C04e0372f-f5ef-4061-ba22-baa5a87f8365,Lemoore Station,CA
+C014392d3-99e2-4e68-9078-2e6f1072e6cf,Lucas Valley-Marinwood,CA
+Cb5fec0c4-e179-48b8-90a5-2eee0ccd2c6c,Crescent City,CA
+C573aff24-08a0-4abc-aab3-5f64f143f464,Contra Costa Centre,CA
+C7e76dd1e-47c5-4148-99d0-3564b1686778,Bermuda Dunes,CA
+Ca135599c-da44-4f7d-9247-780977143315,Desert Palms,CA
+Cd5e7065d-52ab-4066-b27d-ca25d11e2ea9,South Monrovia Island,CA
+Cdb4e8f33-435e-482b-92c5-5445dadd5202,Oak View,CA
+C4abf7469-4b8f-4ec8-8554-26648443dc4b,El Rio,CA
+C410c7a9e-29ef-4670-a702-682ecad10d30,San Martin,CA
+C18bb721d-e76d-4643-9b4c-97f5ea0deaa1,Thermalito,CA
+Cd7a3eef1-b7aa-43a5-964f-be127864b63d,Pollock Pines,CA
+Ce98d742a-0148-4324-acbd-3438a84f1a2b,Eucalyptus Hills,CA
+C357cedc5-5344-4d19-831f-3996ade5b448,Ladera Heights,CA
+C95bad61c-4cd3-4576-87af-9c56921d7289,Fowler,CA
+C31df87db-5d7b-4b78-91ea-c84659e5c4be,Castroville,CA
+C5e4808b7-ecd7-47b8-ab80-dcaca7ecdc27,Rancho Calaveras,CA
+Cb9fdc8b4-cf06-45a2-89b5-63c7df69681e,Durham,CA
+Cbc2eb843-1430-434c-b115-aec8ea00bbf1,Aptos,CA
+C0aadd2c6-4e3c-42dd-b303-b64cd438f429,Highgrove,CA
+C64b20547-78fb-4c87-9324-60c5d5f899ce,Pleasure Point,CA
+C0eb607f9-2852-419e-9438-a44572c0ed16,Holtville,CA
+C9cce609a-e86a-40d6-8325-4603a1686de3,Colusa,CA
+Cf87bad2b-ea2b-4bf2-9b11-fdf81c36fdbf,El Granada,CA
+Cb8539985-ceb5-41f7-ba2b-f2970aee72b4,Willows,CA
+Cc7472b01-a0b1-42ab-895c-7f6c09ef846f,Silver Lakes,CA
+C6d37c670-66f0-4e86-9c48-fba844615395,St. Helena,CA
+C3e69a88d-e3c6-4f4c-b937-8cb581e97522,Saranap,CA
+C307a52bc-5a5e-4425-adc2-2a0815b1dc41,East Pasadena,CA
+C411a6522-5402-4d93-8883-198e7f91dda8,Salton City,CA
+C2a9d62d7-1650-48c0-a8a2-cbce7d38de97,Hidden Valley Lake,CA
+C15c501b8-ec86-4e1d-9d9e-6c21b8b9630f,Hilmar-Irwin,CA
+C7f554ded-2b45-45d7-9620-99f7b3f23310,Villa Park,CA
+C90dc2b7a-b08f-400e-9ea1-13c26e9b2f1f,Camino Tassajara,CA
+Ce5cc65c3-e70a-4d37-a915-41517946e165,Jamul,CA
+C82f27042-f409-4b0d-af27-e987d1116853,Fruitridge Pocket,CA
+Cf3a8119f-cb4e-4cfa-bd69-621d7c47e61a,Gustine,CA
+C6351770e-e7fd-4598-9951-4f844e41a25e,Denair,CA
+C919da63a-a20d-48ae-a898-26b84fa18b5e,Lucerne Valley,CA
+C13f7ee0d-1dcc-44bb-978e-2fa4784f5d3a,Keyes,CA
+Cf08f1ea0-41d3-4149-9da9-e4602b2e4fd1,Mayflower Village,CA
+C9e725dbe-7f8d-4293-8d3a-ef3057a244ee,Rancho Murieta,CA
+C85925b11-eb50-49b3-ba73-3e328cd1aab7,Happy Valley,CA
+Cbe778285-973e-4705-9678-adaed3e64dfe,Solvang,CA
+Ceba700bd-2af6-424a-a790-f9e2a0077f5b,Old Fig Garden,CA
+C0d8a4145-bf6a-4163-a587-378441ea2c88,Woodside,CA
+C0c20541e-129b-4a30-8adb-517debe5b365,Garnet,CA
+Cc57f3bc4-3305-4b1f-bd07-5994d7dc6126,West Modesto,CA
+C0b4784bb-0d52-42b4-b802-741f27b6832b,Cambria,CA
+C69a7dbd9-3d15-4dab-ad5f-5e017fa18607,Twin Lakes CDP,CA
+Cba32cefa-502c-45b8-a58b-550fb1dc3f3a,Mecca,CA
+C21e1fe57-21ba-451a-a7b1-5e660ca32a8c,Indian Wells,CA
+Cf0c08a6f-4c50-47aa-839c-6e8a9cecec6d,Cottonwood CDP,CA
+Cad9e5f9d-5967-40c2-b1c1-74ff0449462e,Oakhurst,CA
+C24c4bc9c-ad79-450d-8b0b-7a8eaf57cb10,East Porterville,CA
+Cf6801b42-5545-4820-827d-7d7b339b9748,Goshen,CA
+C608a9562-dbac-4d4f-801f-0e51178913cc,Burbank,CA
+Cd4766100-82ef-44d8-b857-fb3c6f88af08,Calistoga,CA
+Cf1ee8ee7-3683-45e3-9be3-75c7fefee449,Strawberry CDP,CA
+C45206f3a-ba65-45cc-85b7-fa88e51f3d88,La Habra Heights,CA
+Cef7a36dc-c737-472e-9f76-b7280919a0a3,Boulder Creek,CA
+C7494966c-8118-484b-9a25-36e3df69eaca,Yosemite Lakes,CA
+C65c805cb-0adf-4625-aabf-55f990cc0cae,Big Bear Lake,CA
+Cf402a47f-a4e0-4d1d-8fdb-23573d170228,Cutler,CA
+C767b30fa-a8e9-47fc-898d-cb7fa805c517,Bear Valley Springs,CA
+Cd1f0ddf1-6d04-4097-bba3-7aaf67939ff4,Williams,CA
+C4c894c26-fd5b-4e44-9b06-c51250ca7a05,Buellton,CA
+C9807e257-0fcb-4ad8-a542-e10802473cb3,El Cerrito,CA
+Ca4f87364-9a23-4515-85c5-69d6aface602,Dos Palos,CA
+C86df6177-340f-44de-996e-2aa18b5f39e7,Greenacres,CA
+C2ecd0632-3c4a-408d-90f4-16ba0b31cf49,Elverta,CA
+C760bc991-e574-4527-9dad-2952321d8c20,Wilton,CA
+C93020451-8926-45d2-988a-02b96f8dabdf,Benton Park,CA
+C37b7086c-ebeb-46fd-bcb8-5a76b2d37a48,Palermo,CA
+C6276311c-c481-4a56-b41e-a8b11a2a0472,Bonadelle Ranchos,CA
+Cdb83d313-3d59-478c-b7cf-65b3b5d8656b,Kensington,CA
+C94147220-bee0-4b67-bd76-d9e6c4cf4937,Myrtletown,CA
+C3085594e-fda7-4743-bd6e-677124a478ee,Las Flores CDP,CA
+C370d7c48-0e99-4676-be11-f035520ee416,Bret Harte,CA
+C531df2c8-f2c8-451f-9678-1f5f49da6d44,Needles,CA
+C9b1002df-df44-4823-959a-fe0a445ae999,Lakeport,CA
+C394d78fb-df6d-4664-b583-3152ff518173,Tara Hills,CA
+Cbef41ea2-e725-4922-9e3e-3372714a0975,Ford City,CA
+C811c4b34-73b0-434e-a61c-014f7910618c,Willits,CA
+Cd7ebe6cd-a12e-4bbd-a516-3364357bfcf7,Coarsegold and Emerald Lake Hills,CA
+Cab3e564e-1897-4438-bad3-24135e07d8a0,Mayfair,CA
+C59c1163a-f9a8-4e15-82bb-6988e0b9547e,Jackson,CA
+C39cb29f9-424f-4e8d-8a37-6c3ba9cad3ce,Sonora,CA
+C92b1eea0-1a95-421c-8a0c-b2e55d924b54,Phoenix Lake,CA
+C1d6cb293-aa99-4ed7-9b19-a4de354663a1,Pacheco,CA
+Cc3b34954-40b6-49e8-8e68-42a71cd66b99,Guerneville,CA
+Ceb0a727b-5d03-408b-b1fa-e2ae3387a52e,Santa Ynez,CA
+C38a18917-3a8c-41d9-bc43-2f3ae0236063,Lake Wildwood,CA
+C28104da5-d962-4cac-ae45-0b497fb45d9b,Brisbane,CA
+C3f3be037-56ab-4b4d-9634-4c2a09003126,Ivanhoe,CA
+C06740c80-cab6-4d72-8c34-ce6b91c5d94f,Portola Valley,CA
+C3140964a-160d-497c-a72f-165d87ae639b,Brooktrails,CA
+C1ed26346-0186-42f5-940e-4277e276a8ed,Sunnyside,CA
+Cc8573221-380e-4c9a-ac81-2346c0be9963,Armona,CA
+Ca0eab984-cde0-403b-b0ac-e8ac83348c05,Lenwood,CA
+C4ada2289-a9e0-4d6d-8f1f-b97e4bdef5d1,McSwain,CA
+C9428ce19-d1e6-4b95-9524-c60a37194a8b,Running Springs,CA
+Cd324d46d-05b7-41fe-9565-e6e92e07f1a8,Clearlake Riviera,CA
+Caba9dd1e-4b59-48a3-8ea6-a4a9fb7d3b7f,Wrightwood,CA
+C30c6cf23-1da6-407b-a94e-36ccf0bbdf35,Harbison Canyon,CA
+Cc04979e3-fc70-4caf-87b0-a021778a4224,Lake of the Pines,CA
+Cca42325a-67a8-4ee5-be68-6dc20fe118b1,Del Mar,CA
+C67e7c68f-e704-426b-b409-e8d991ddfc35,Pixley,CA
+Cda72cdb2-f29d-4263-9706-cc92fede349f,Mather,CA
+Ca90bd8cd-d4a3-44dd-b397-1750f94080d6,North Richmond,CA
+C10f559fa-9bdd-4c5d-8023-3332c21c0a30,Tarpey Village,CA
+Cc69aba17-2db7-4451-afea-d71c4ee600ec,Meadowbrook,CA
+C2d3c55b5-7896-430b-9011-c690e3a1d531,Bonsall,CA
+C74e26faf-6faa-48b6-a890-3c6f5fe0ffd5,Carmel Valley Village,CA
+C7861fec4-0a6a-4f52-86ed-6b8a473d0a97,Broadmoor,CA
+C6eff4057-46e5-4258-8d95-832e6f32412f,San Joaquin,CA
+C174f77a4-0ab3-4ace-a497-414668bfd38a,Granite Hills,CA
+C261f2393-7534-4382-9c45-bdfaa6fe3c31,Esparto,CA
+Cabba5e4e-8760-4aef-81e4-ab4d4d147012,Lincoln Village,CA
+Ceb9e0384-eedc-4683-9be1-2b6bb4db49e5,Planada,CA
+C162b99a1-7c3c-49e2-b143-bd2d84681b6a,Coronita,CA
+C98dfa26c-8b5a-4758-8e88-5f5e292654d5,Freedom,CA
+Cf7f769f3-6195-44b1-8148-1d3a7db274d9,Lake San Marcos,CA
+Cb575e582-1e8b-43d9-8af6-ee646e25752c,Santa Venetia,CA
+C8424af2e-cfb1-4ba2-a058-17bcc6b71008,Valley Springs,CA
+C120d2582-2403-4f35-8f58-81dcc34cae71,Angels,CA
+C9f344d04-dab2-4d74-ad77-83148470a73c,Green Acres,CA
+C08d014bf-1e7a-4684-8750-29b81e6b86c4,Las Lomas,CA
+C06fcb61b-f38c-4fa1-afe1-bb8ccd99c2c3,Woodbridge,CA
+C3d3697d3-c564-430f-8bf3-4b8b5554380d,Carmel-by-the-Sea,CA
+C904d97cc-b362-40d8-8480-2fd35f619266,Forestville,CA
+Cad418982-5d99-4c9a-8147-656bb378e931,Del Monte Forest,CA
+Cabae0e67-5f2e-4b71-8c54-ae7df4870622,Mojave,CA
+Cf4781850-913d-4aef-a51e-f0dced7b5adc,Greenfield,CA
+C99b24c9b-56a6-4c9b-9373-615abe62f1f6,Bystrom and Burney,CA
+Cae70892d-6ac5-447a-b2e9-b7620d887822,Bishop,CA
+C9f8a5224-014f-480c-b2ba-26aaca56aabf,Avalon,CA
+C2dff5637-6458-464f-9e19-7d1394494c51,San Andreas,CA
+Cc0064d91-02eb-4e6c-a1ef-4da11b274973,West Menlo Park,CA
+C4d3cb083-e63a-4dc0-b7b2-d5f6298ef76d,Shingle Springs,CA
+Cf551d5dd-798e-4f17-9391-b5786169389c,North El Monte,CA
+C3d6b9392-5f9b-4faa-9f22-e5888f0d9d77,Mountain View Acres,CA
+C06804f47-e47b-40d3-afd5-b1cae27d6bc8,Meiners Oaks,CA
+Ccca9da43-1f39-478e-9933-c9f2b8594d6a,Hidden Meadows,CA
+Cd959da28-806e-422f-9728-9bd84cd5fd62,Kelseyville,CA
+Cde128ca4-d7b3-4160-a089-e9489b639ed6,Vandenberg AFB and Mono Vista,CA
+C1a08f9d3-15bb-4d46-a32f-25d5b3e75930,Strathmore and French Camp,CA
+Cf285b6df-aa67-4760-9483-33dde4b29bf2,Wheatland,CA
+Ce6f3c079-df01-4f6b-8353-c239f760ea08,Lake Isabella,CA
+C067d26ee-90a6-4349-90a9-5606b4ee4778,Rollingwood,CA
+C796b8852-2348-48a5-a7de-25109d0d474d,Madera Ranchos,CA
+C34c4a37a-816b-4180-b185-a9c4d7fdc5da,Seacliff,CA
+Caaa2ed46-d774-4987-80bd-8d65a971fb59,Lockeford,CA
+C74d82d6b-13e5-4de6-8531-bc65512eb089,Copperopolis,CA
+C432b0b83-11b7-4c0e-8009-9b589e8d830b,Fetters Hot Springs-Agua Caliente,CA
+C98f9d7a2-97ec-4ca5-aad5-8c759f19fd08,Pine Hills,CA
+Cc493be08-da0c-4d36-a57c-4dce156e184d,Campo,CA
+Cac2b6e60-c4b8-44fb-b720-9c47252d44c9,Squaw Valley and Monte Sereno,CA
+C4a8638bb-53b5-44ec-8c1f-eddb9e2a16d3,Mission Hills and Pajaro,CA
+Cc7cbd8f7-b60a-417e-a833-0259369bcaa5,Meadow Vista,CA
+Ceebb08a4-65f0-44e6-91eb-be678d2b6f10,Auburn Lake Trails,CA
+C3aa2efd6-d202-4cc1-a230-55232197a8bb,Agua Dulce,CA
+Ca7eb24b8-fa41-4093-8068-5fbc241e129f,Rexland Acres,CA
+C14cf79aa-470c-40be-8796-976ab1b363d8,Desert Edge,CA
+Cac9b4bac-8321-448f-99f9-9be3d635240a,Old Stine,CA
+Ca04b0a2f-69b6-4dd1-aa8e-33661ea16b66,East Richmond Heights,CA
+Cdccc84d8-e023-4b87-a2b2-64b8377929f8,Moss Beach,CA
+Cd5201d9e-0435-498e-a7fb-35a3b5676fbf,Humboldt Hill,CA
+C27506b18-7ba3-4ecd-8628-e45d4bc6e49a,Morada,CA
+C36553d6e-95de-4ad1-874e-145c34b418ae,Angwin,CA
+Cc0e494a0-69f6-4ba8-80d1-33d15cc35069,Day Valley,CA
+C3f3097ac-cde4-45c0-b9f8-9a84862afccf,Loyola,CA
+C4e5558f6-a95b-4345-a07d-7ac17bc05996,Tipton,CA
+C5be136e1-8bb8-4ac0-848c-6ce1f6de79cd,Rio Dell,CA
+Cf9bf4188-a5d6-4353-9d28-4c38dc20e970,Jamestown,CA
+Ca3a344ff-6ba3-473f-815f-54214c89093c,Arbuckle,CA
+C83444399-5d0c-49d0-bf9d-d401f5c95db5,Hoopa,CA
+Ce8d57c8d-577f-46a7-a3b6-949d3d490ff8,Auberry and Reliez Valley,CA
+Cb02023bb-28b9-4580-9605-09803c4e701e,Bella Vista,CA
+C46352fae-33b3-43c5-9701-dbc0b7b1c9f0,Cutten,CA
+C713fa57a-ee21-47f4-9f89-396615c3618e,Weaverville,CA
+Ccb172236-9e85-4772-b31f-6e5eda19324a,North Fork,CA
+Cc6577bba-b104-4de2-a8a8-4274432ebd28,Empire,CA
+C11458cbf-354d-48dc-8774-a064d93624c8,Lake California,CA
+C3435e712-dfc8-49d9-8b45-fa7007dfa784,Val Verde,CA
+C7125f008-e865-41df-bcef-fc2fd4bfd4b9,Desert View Highlands,CA
+C8fddcba7-fffc-4124-ad2f-68e1dc128423,El Verano,CA
+C21f63981-7263-4704-990b-4231a34aa64e,San Miguel CDP,CA
+Cd177ebd3-4681-4160-89c6-8ae54bcdf58c,Mount Shasta,CA
+C354a9609-506c-4b99-8f84-91f108948b89,Amesti,CA
+Cdcb41859-f6c0-4bea-a267-99199161f724,Vine Hill,CA
+C26ca5f45-4d73-4d97-96d3-77e1899e3589,Crockett,CA
+C6baf5e6b-cbaa-45c3-8da7-d972de63e169,Felton,CA
+C51eaef8a-204c-44a7-89ca-c3aa5d7cce60,Casa Conejo,CA
+Cde4b6b86-d6f4-4d61-b0bf-d90366623ec5,Morongo Valley,CA
+C9df64e7c-232e-41df-8e7b-a1f28ec4605e,Nevada City,CA
+C342e93f9-a9a4-4594-bd63-b6a57e1acd5d,Frazier Park and Cottonwood,CA
+C596bb1d5-7903-4175-b065-5d5c2884cb22,San Antonio Heights,CA
+C738a6faf-c0e6-4b28-b6a3-67a63f608200,North Lakeport,CA
+C59a07497-6f8a-4221-97e6-0bcb2f926a36,Marin City,CA
+C586d7e81-60c1-41c3-b426-77880243b8a3,Lake Nacimiento,CA
+C46337ffa-69c8-4144-81cf-1ad672206e66,Cambrian Park,CA
+C7add646e-26f7-49f7-a94f-6dc8fa95fe0b,Dogtown,CA
+C95127c47-bb35-419c-b8e1-f882713e2233,Yountville,CA
+C775ce704-ae0f-4e0a-a01a-fd32e3f285d7,Stallion Springs,CA
+C218d03e5-9daf-4e86-8633-4e14f3b64e0a,Highlands,CA
+C3b98adde-b1c4-4502-b722-564390e136de,Georgetown,CA
+Cb2fd02c3-ae2b-4d0b-bb7a-75480304a161,Idyllwild-Pine Cove,CA
+Cde39c323-641b-43dd-813a-bb3035b21d83,Bonny Doon,CA
+Ccd9b7219-9b5d-4c21-a4df-1fac19ebf4c6,Winchester,CA
+Cf51f0d64-242a-466a-ac08-8e03ae320157,Pine Canyon,CA
+Cd414281f-dba8-48e0-aeee-c8db2b1bfc85,Kelly Ridge,CA
+C878dd6d2-265c-4307-ab8b-ae8bce09bf45,Fairbanks Ranch,CA
+C76a02b85-11ca-40f7-a23a-0cd84746df35,Loma Rica,CA
+Ce7889bbe-cdca-47f8-ae2f-36018f0c9fd3,Palo Cedro,CA
+Cd78bd0e4-d0b4-46bd-9e37-962d599b7e59,Weedpatch,CA
+Ce98a4911-7854-49a7-a1aa-7263c088de14,Kennedy,CA
+C2601f533-2bd6-42e0-b72c-d28be827ceb3,Montara,CA
+C3d36cf68-3a81-4281-a2ef-8e5b40bb8480,Kings Beach,CA
+Cb011d6ea-16bf-470a-8cc3-17cc392a74f3,Sage,CA
+C223c0e60-5eb1-450f-9725-d43c21f77f29,Janesville,CA
+Cdf0e8d72-ab4e-4492-bf89-34919c24cde9,Pine Mountain Lake,CA
+C3fc618b6-2499-4fa8-9750-bb829c5bc8ee,Lake Shastina,CA
+C981d089d-7011-498e-ac29-06e3a1e3e197,Sutter,CA
+C0a0c8cb6-be3d-4176-b631-f6a72de34a5b,Bayview CDP,CA
+C497bea12-c3c9-4aff-8d36-999770b3de09,Pepperdine University,CA
+Cf0c15159-6025-4498-bb5d-075842a6bd05,Dixon Lane-MeadowCreek and Romoland,CA
+C60de6dd0-ef7f-4037-8481-7e3563976ca3,Bayview,CA
+Cc3ad8f74-fca1-4a3c-8500-01ca188d2ba1,Riverdale,CA
+Ce5385b20-85f8-4287-9264-c382e67573cd,Parksdale,CA
+Cb822f676-c908-4946-9d10-8fe2816ca8f0,Crest and Santa Rosa Valley,CA
+C121d4b75-e8b0-41f1-9ecd-24b8416f0ea4,Channel Islands Beach and Three Rivers,CA
+Cda6a86db-5ac1-4ef1-9398-46ac6b41e62f,Westmorland,CA
+Cf755cc9f-1f5f-47e7-b4d7-54a268d65558,Edwards AFB,CA
+Ce203d15c-ea93-4819-b3bf-40e45a83e28b,Lucerne,CA
+C3da96ff5-edba-44ea-85da-ee5d68e4d127,East Sonora,CA
+C192fcf6e-ac82-4109-97f8-af2a844f1fc2,Weed,CA
+C46d55ffe-0255-4941-98d4-245028b3e198,Rancho Santa Fe,CA
+C0f76415b-3278-4fab-84f8-1c69c7fe70eb,Lexington Hills,CA
+C8e66b785-02b0-4255-8790-ca22732df8de,Hartley,CA
+C58155a4c-1955-40ad-8bbd-b551cd9de974,Mission Canyon,CA
+C8ee34d32-035a-42ce-92fd-35a3880a2d5f,Biggs,CA
+C410880af-a5e7-42d2-ac8c-403654bbdfd1,Sutter Creek,CA
+Cc90cef3b-946c-42ad-9bc0-39097b3c2821,Rose Hills and Homestead Valley,CA
+C7ff5d933-35a0-4307-a406-bea7c56ec1b4,Aromas,CA
+Cc74ae306-fdae-4c89-95e7-a185caad14bf,South Oroville,CA
+C1f74d8df-9d57-4364-a979-8c23b1e8bee7,Hayfork,CA
+C4fbceddf-0488-45c4-a294-b559c110ebf4,North Shore,CA
+C9f5b0b89-64e9-4d94-8b57-a5e42d5579a0,Ridgemark,CA
+Ccd0d04b2-d4f0-4908-ac47-facebadddf9a,Oasis,CA
+Ca0fc8afe-63ef-41c6-a47d-7c500d57eee1,West Bishop,CA
+C60e5deb5-cf7c-4d53-9786-9ba073d8a4bd,Alturas,CA
+Ccdc4e0ea-620d-4136-8823-0cacd0b0d648,La Selva Beach,CA
+C464f333e-2ac3-4dfb-9409-e3d4917c9a05,San Miguel,CA
+C579bf724-0e27-4bb6-8368-76e2531d6c31,Twain Harte,CA
+C2f2901cc-747b-4914-a4b2-22b238aaf034,Montalvin Manor,CA
+C80e6e7f1-ab6b-434e-8354-040fac10da98,Ross,CA
+Cb8ddde5f-c05f-4b25-a27b-e5553b0b0a53,Lakeview,CA
+Cd2730363-7fcc-4f5a-81d4-29a1d94453b8,China Lake Acres,CA
+Cdd03ee45-9c78-47c0-a783-db893e6d8073,Hamilton City,CA
+C409401aa-58e1-48fe-8dc4-d62c97112dbd,Nice,CA
+C648be35b-0fc7-42be-8ba9-0db3d4ac982d,Meyers,CA
+C91746c11-2c74-405e-9e35-5b8fc43e8223,Parkwood,CA
+C3888639e-f3fb-4673-8567-5676f1123170,Terra Bella,CA
+C059a5646-e161-4196-8962-a97ab1166c37,East Oakdale,CA
+C151174f3-836f-40aa-bbc6-b83aec217d40,Penngrove,CA
+C0d8a299c-405a-48ba-9cb8-5fb3decb5ffc,Sleepy Hollow,CA
+C26da7cd4-6bd8-4e43-bbb5-171769aff949,Calwa,CA
+Cc73d8d86-6ef8-4622-8d31-b80c69ca8889,Collierville,CA
+C07711b38-fcf9-400e-aa6f-994e6549291d,Woodlands,CA
+C5a82e3c9-66ac-4707-808a-5162d0c4a1c0,Shingletown,CA
+C28cb85a4-87af-4cd9-a354-59eb16134948,Boron,CA
+Ca42f339f-d0a4-4686-9473-e17ccc79c04c,East Quincy,CA
+Ce27db3a0-a1e7-435d-b005-dd09cd7a928c,Sky Valley,CA
+C3b9a031c-35d7-43f6-8365-20f0c63d5bab,Cabazon,CA
+C0e266e2e-db67-4293-8294-841ca3b15171,Ahwahnee,CA
+C1bee2d0c-7789-4fe6-80f5-c427758da7c0,Corralitos,CA
+C5763cf0e-ceb6-4ccb-a6e1-60d6b2f184d9,Colfax,CA
+C80f70829-be86-4fdb-bb8e-c538a5963a84,Belvedere,CA
+C9a0c6404-4300-49eb-8cf8-188a09d11334,Caruthers,CA
+Ca1cca1f5-c8e7-4bae-a19a-752589052392,Cayucos,CA
+Ca5ef99d8-2ecc-46b9-ab28-4a0b89cfa56f,Easton,CA
+C23151638-c4f2-480f-bf4f-5bd31c8a030e,Hidden Hills,CA
+C638cdff1-52a2-43de-b5ca-1429ed331123,Rainbow,CA
+C585f252a-b0b9-45ac-8b79-afaef3e490d3,Clearlake Oaks,CA
+C4dd5f3a6-f42d-46be-b7ac-ce6b65507946,Buckhorn,CA
+C7fbf7808-dbc8-4c9d-a7e6-3d3713359d27,Centerville CDP,CA
+Cb868b256-f4d8-48b3-8305-7d944ed819d4,Bodfish,CA
+C9682a7aa-866c-460a-9357-e64a5c57cfa2,Weldon,CA
+Cf161fe13-f9ef-4b4f-8129-5c4c94ab53d8,Maricopa,CA
+C14ef0def-3d99-44d3-a940-74bd23fec3d4,Piru,CA
+C0a280b40-04c1-415c-917e-31c2a1951280,South Taft,CA
+Cf13b08c8-2117-45dd-87b8-ca3d4126d26b,Anza,CA
+C387b5d21-5540-4885-80c7-c05371a6d4f5,Arnold,CA
+C58835b5e-81d8-4486-8f2c-5d5b545a4bb2,Richgrove,CA
+C4fca96fa-ec2a-4675-b7dd-26ee1abd82a7,Chester,CA
+Cb0ab4df4-fdaf-45fc-a666-d7811ea177b9,San Juan Bautista and Columbia,CA
+Cc1b34012-931a-4717-af14-f4be49204f74,Vista Santa Rosa,CA
+C3177eb16-f2cd-431e-a524-26523cf25680,Pine Grove,CA
+C1accca45-1821-4a05-85be-e062ebf3a717,Camino,CA
+Cfdd02cdc-abf1-4c60-9665-4cad3bd21589,Soulsbyville,CA
+C0df73b17-1a00-490e-9b24-d2f65cc09157,Byron,CA
+C5eeb22cd-fab9-44e7-b8d8-b768caac81e9,Linden,CA
+Ce74a6e9f-46f7-4469-b312-229ebb17a5f8,San Pasqual,CA
+C0873cce5-3f47-45a3-9a72-0fb5aaffe205,Bertsch-Oceanview,CA
+Ce3b9786b-a19a-464b-a33f-1d139c246b1f,Bethel Island,CA
+C9c8a020d-6792-4c97-9fcc-4074eaa08892,Pine Mountain Club,CA
+C741d29e7-479b-4858-b400-c37f5689d3a4,Patterson Tract,CA
+Cfe03f266-fb75-401a-ad48-9e83b6bcee4c,Bell Canyon,CA
+Ca89bdca4-7477-4e2b-a422-5d2a5c360f81,Santa Nella,CA
+C2844e6e6-fa8d-42e0-8bc5-01993bac4129,Laton,CA
+Cc7581759-f9cc-4c58-817b-14d143775306,Murphys,CA
+Cd83009e4-ae27-4e9a-9713-2bd6c7459f9a,Los Molinos,CA
+C3a3aed7a-ad71-4228-a717-f842aea2b775,Toro Canyon,CA
+Ccd5dc167-445c-4808-9a15-918841e79640,Temelec,CA
+C29a1e534-3667-4dfa-bc3d-652487580365,Lagunitas-Forest Knolls,CA
+C993a942c-ae95-4124-adab-00a34efde168,Mountain View,CA
+Cd3d58a2f-f04d-41a9-9277-635e037d2a32,Wofford Heights and Dunsmuir,CA
+C8c98236f-b037-4f73-a03e-22c6935b8c3a,Borrego Springs,CA
+Cd1635f63-415e-437c-9dce-ed43167ee532,Seeley,CA
+C0accde7f-19f4-4cd1-a13f-5a2c16f9eb91,Parklawn,CA
+C8a087ae0-0e81-4ae3-b1db-9e1136b3bff1,Poplar-Cotton Center,CA
+C18798388-bac2-475d-bbd5-7c620959101f,Woodville,CA
+C07a8046f-6420-4f8c-89e2-b66faa6bd6d2,Redwood Valley,CA
+C71b6a0b7-d959-4525-9f08-4fb658f4923d,Baywood Park,CA
+C79b69933-97eb-40e7-8854-9890145ff9b7,Fairfax,CA
+C91d3844f-bc0b-44c2-8537-05ec32f029a2,Portola,CA
+C63c5bd65-a3c4-4446-8aae-0e53e5c1693d,Rancho Tehama Reserve,CA
+C4be7e8dc-799b-472f-86f9-2cd6264d1c63,Graton,CA
+C1dc28a82-23aa-461e-8934-98eb3aeef46b,Lost Hills,CA
+C42184e6b-5daa-4af5-90da-fabab8cb2934,Boronda,CA
+C046a899b-21f6-4ea5-b6b0-c9c95f081de2,Saticoy,CA
+C469417ee-295e-45dd-86b1-16b9f55df5db,Black Point-Green Point,CA
+Cd6653d88-c6be-4b87-b4b6-546d0a7f8f0a,Quincy,CA
+C5e9341ec-8cd4-46ea-9f08-4bc0524e980e,Lake Sherwood,CA
+C96a23e31-cd7e-40e1-97de-0f4300f41c88,Rouse,CA
+Cc41e8ee6-1336-489e-94ab-46e0a07c2d4e,Los Ranchos,CA
+C7a65876f-da90-4c35-98dc-34fbf62421cb,Leona Valley,CA
+Ce8018a9c-c99b-4444-9fcc-cca163f5270a,Searles Valley,CA
+C99b02dc5-a9ab-436c-992c-6a5b3113c495,Shasta,CA
+C9bdd06cb-605e-4299-96fc-9251d19249da,Callender,CA
+C874b1621-55af-4912-ad4c-0e304182a03b,Elizabeth Lake,CA
+Cdf948783-21fe-4cbf-9bc2-0fcdbe36066a,Pine Valley,CA
+C71024535-6c65-4947-9e54-cb157fef3273,Le Grand,CA
+C5d33843e-abd6-447e-bb24-39c5c08a06b7,Home Garden,CA
+C00f21333-3f1c-469a-b5a7-41b4d588c679,Green Valley CDP,CA
+C8088ac2a-16bd-49ff-9035-746e0eaa032a,Grayson,CA
+C51e37de9-fd44-4dd4-8b4a-cff80249a789,Sunnyside-Tahoe City,CA
+C4176be2c-7b91-4560-aee5-24739cbb2259,Red Corral,CA
+C5dd31c1c-56a5-4ab9-98df-477725aec1de,Forest Ranch,CA
+Cc512fa6d-6b83-482f-b0d1-990fa9cdbb5a,Foresthill,CA
+Cc82c2886-a326-47da-9208-d89aa7ab27f6,London,CA
+C7127fa3d-5f45-4c4d-bbb5-a8394f9f7964,Montague,CA
+Cab1d52e9-9c4e-49eb-9bd4-2744db79f014,Del Rey Oaks,CA
+Cc3f689a5-9b84-489e-90cd-2f101de872a0,Delft Colony,CA
+C9cf63cdd-5a80-4f8b-8cc2-52517c4847c6,Taft Heights,CA
+C4a0b4135-bf6f-47f5-adb0-6f4e67792eef,Inverness,CA
+Cacb932bb-61d9-4596-9be4-b5cc5f2d67c8,Harmony Grove,CA
+C04fb00be-ed5d-46d8-85cc-49119e451bdf,Colma,CA
+C1e16a007-2149-4271-9626-4c4f3f6983a3,Bakersfield Country Club,CA
+C9cdba7c5-8581-44ca-bc3f-69c2841f9d38,Lone Pine,CA
+C49e7a90c-9e74-44ad-bf01-509488f0c128,Lewiston,CA
+C74396a4c-5a78-41f9-b253-8e1a517aab60,Lebec,CA
+Cdfdf38ae-7642-4b10-9b68-dd34ac69cd4b,Lake Don Pedro,CA
+C22b3878b-3e47-4fcf-b402-b2e061b6cb08,Woodacre,CA
+C861891ac-3387-47b7-9a32-47df86dcdf44,Avila Beach,CA
+Cf132e2a0-ec08-4c3c-8913-7683d26c0415,Warm Springs,CA
+C78a7cba6-cf63-4e4a-9145-332471a16f82,Biola,CA
+C69062928-2c3e-41d1-ad99-1cfb66958f3f,Rolling Hills city,CA
+C61fb8055-1d48-42ad-9d30-e4b08687c107,Hasley Canyon,CA
+C5d67ff78-38aa-4bcc-863c-1ef699733b91,Allendale,CA
+Ca9635e4b-9963-4ac6-9afe-7b2706d9cbc8,Tuolumne City,CA
+C276f8650-df4c-4771-a55f-61f694ccb4a1,Chualar,CA
+C0a2eb6db-a651-417b-8e6d-0234a75674cc,Sonoma State University,CA
+C740895f2-6b87-4e58-ada2-b80a5b6e1f92,Fort Dick,CA
+C808f14bc-7f35-4d4e-aced-d843dd1de69c,Casa Loma,CA
+C369a5b01-d96b-47ad-97f8-bbae224690c8,Descanso,CA
+C8e3aa77d-516a-4834-8bce-bac442391db9,Aptos Hills-Larkin Valley,CA
+Cb237449b-c2a0-446a-a1a5-068472634f41,Mount Hermon,CA
+C5b1b5df9-d9b6-4f2e-b42d-c8a4789e89ff,Riverdale Park,CA
+C36de6cfc-c60e-4228-8faa-8b45e3d3c9a6,Dunnigan,CA
+Ce8382366-4b13-4dcb-8b07-23af5b7fb6cf,Westwood and Ferndale,CA
+Cbd9b5a2d-267f-4081-b338-a9d4bd1c241b,Ladera,CA
+C15e2064a-cbfb-4f6b-9a4e-f1ad38167ec2,Grizzly Flats,CA
+Ca6c6b27d-b315-4166-af6f-8af8c46a87c9,Big Pine,CA
+C6a0d0604-edca-41dd-b4db-862c498ca180,Thermal,CA
+Cf155c5eb-dfcd-4b9b-a327-3f23a6413f92,Irwindale,CA
+Cc1382a0e-3656-476b-8cb4-4bb89c6f38d1,Garberville,CA
+C44d81c21-db2c-4878-9d44-6c4e919ae4c0,Newcastle,CA
+C1cea6851-8ef4-409b-b23e-f6ddf7b5fce6,Monument Hills,CA
+C68c19f31-df71-41b0-ac56-bd1b05f5a5de,Covelo,CA
+C90e0dc00-b736-493a-85ef-9012f857a7d5,Camanche Village,CA
+C8c8bfe34-9de8-4674-b69a-66fd9be59879,Buttonwillow,CA
+C31c4121a-4eaf-4b06-a9a6-ff6c759f9ac2,Sultana,CA
+C6f431a8b-117c-4859-aea9-706314a2d25c,Forest Meadows,CA
+Cf0743dc8-72cf-4bb7-95af-2e92a869c59c,Julian,CA
+Cdfd2a238-c6d5-49bb-a058-78b16631607d,Redway,CA
+C3d92e0c9-288d-4e14-aab8-c66933c3bc15,Westhaven-Moonstone,CA
+Cad0977b5-7613-4332-9490-5ffe675ec7a7,Brookdale,CA
+Ce2cf0ef8-2a54-4375-afa7-087641ebb7ba,Walnut Grove,CA
+C46330200-b19e-4b74-bd17-dbbe42510900,Trabuco Canyon,CA
+C4132e93f-346f-43b9-9565-903e071d88e1,Berry Creek,CA
+C10e552c0-b950-42f7-9c3d-ae96f31daf90,Airport,CA
+C98a40aba-9938-4c5e-a288-243d59e79c82,Los Alamos,CA
+Ce206bb65-ed0a-4fdc-8bac-fea0a5974b64,Herlong,CA
+Cda39daca-4220-4e23-88d2-4438ae593634,Jones Valley,CA
+C94e04f97-d254-462e-9998-9bb5d6b60293,Cedar Ridge,CA
+Cbd30825b-23eb-407a-8fae-a830223a5e40,Maxwell,CA
+C887cbca1-5d9e-4228-96e5-0691d2e76971,Upper Lake,CA
+C224fd3db-b95d-430e-a69c-a268a1ba8ffd,Del Rey,CA
+Cc7024f7b-5352-4b19-ad5a-be6ad11de02a,Kettleman City,CA
+C050796c6-7ea9-4c4b-b968-94f08c9e0906,Del Rio and Willow Creek,CA
+C7ed8e808-9195-4770-8537-9db848482025,March ARB,CA
+C666aaf6c-1e27-4245-9ab5-686f9264b9ec,Tahoe Vista,CA
+Cdaa22b4f-5e6f-4f64-af2c-2d2e50b6489c,La Honda,CA
+Cddfcf728-2729-421f-b8e4-af8e9fcf6f29,Pasatiempo,CA
+Cd78d96e8-73c9-416e-8a7a-66b33c0d0432,Pioneer,CA
+C2194c177-d3dc-446e-bf08-4556be22ad8e,Bolinas,CA
+Caad56495-7ae9-4a42-a9fa-baae35137aab,Glen Ellen,CA
+C32ea58c6-a8d9-47d1-a0d0-0f3ba3f45404,Yosemite Valley,CA

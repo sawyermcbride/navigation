@@ -1,0 +1,542 @@
+city,state
+Los Angeles,CA
+San Diego,CA
+San Jose,CA
+San Francisco,CA
+Fresno,CA
+Sacramento,CA
+Long Beach,CA
+Oakland,CA
+Bakersfield,CA
+Anaheim,CA
+Stockton,CA
+Riverside,CA
+Santa Ana,CA
+Irvine,CA
+Chula Vista,CA
+Fremont,CA
+Santa Clarita,CA
+San Bernardino,CA
+Modesto,CA
+Moreno Valley,CA
+Fontana,CA
+Oxnard,CA
+Huntington Beach,CA
+Glendale,CA
+Santa Rosa,CA
+Elk Grove,CA
+Ontario,CA
+Rancho Cucamonga,CA
+Oceanside,CA
+Lancaster,CA
+Garden Grove,CA
+Palmdale,CA
+Salinas,CA
+Hayward,CA
+Corona,CA
+Sunnyvale,CA
+Pomona,CA
+Escondido,CA
+Roseville,CA
+Torrance,CA
+Fullerton,CA
+Visalia,CA
+Orange,CA
+Pasadena,CA
+Victorville,CA
+Santa Clara,CA
+Thousand Oaks,CA
+Simi Valley,CA
+Vallejo,CA
+Concord,CA
+Berkeley,CA
+Clovis,CA
+Fairfield,CA
+East Los Angeles,CA
+Richmond,CA
+Antioch,CA
+Carlsbad,CA
+Downey,CA
+Costa Mesa,CA
+Murrieta,CA
+San Buenaventura (Ventura),CA
+Temecula,CA
+Santa Maria,CA
+West Covina,CA
+El Monte,CA
+Inglewood,CA
+Burbank,CA
+El Cajon,CA
+San Mateo,CA
+Jurupa Valley,CA
+Daly City,CA
+Rialto,CA
+Norwalk,CA
+Menifee,CA
+Vacaville,CA
+Chico,CA
+Hesperia,CA
+Vista,CA
+Compton,CA
+Carson,CA
+San Marcos,CA
+Arden-Arcade,CA
+Mission Viejo,CA
+Redding,CA
+Santa Monica,CA
+Tracy,CA
+South Gate,CA
+Chino,CA
+San Leandro,CA
+Westminster,CA
+Hemet,CA
+Indio,CA
+Santa Barbara,CA
+Hawthorne,CA
+Livermore,CA
+Citrus Heights,CA
+Whittier,CA
+Merced,CA
+Lake Forest,CA
+Newport Beach,CA
+San Ramon,CA
+Redwood City,CA
+Buena Park,CA
+Manteca,CA
+Alhambra,CA
+Lakewood,CA
+Mountain View,CA
+Folsom,CA
+Tustin,CA
+Milpitas,CA
+Pleasanton,CA
+Carmichael,CA
+Rancho Cordova,CA
+Napa,CA
+Bellflower,CA
+Upland,CA
+Perris,CA
+Chino Hills,CA
+Alameda,CA
+Pittsburg,CA
+Apple Valley,CA
+Redlands,CA
+Turlock,CA
+Dublin,CA
+Baldwin Park,CA
+Rocklin,CA
+Redondo Beach,CA
+Camarillo,CA
+Lake Elsinore,CA
+Union City,CA
+Walnut Creek,CA
+Yuba City,CA
+Eastvale,CA
+Tulare,CA
+Palo Alto,CA
+Yorba Linda,CA
+Lynwood,CA
+Davis,CA
+Castro Valley,CA
+Lodi,CA
+Madera,CA
+South San Francisco,CA
+Laguna Niguel,CA
+San Clemente,CA
+Brentwood,CA
+La Habra,CA
+Santa Cruz,CA
+Montebello,CA
+Porterville,CA
+Pico Rivera,CA
+Encinitas,CA
+Florence-Graham,CA
+San Rafael,CA
+La Mesa,CA
+Monterey Park,CA
+Woodland,CA
+Gardena,CA
+Cupertino,CA
+Santee,CA
+Petaluma,CA
+Gilroy,CA
+Hanford,CA
+Fountain Valley,CA
+Highland,CA
+Arcadia,CA
+South Whittier,CA
+National City,CA
+Diamond Bar,CA
+Huntington Park,CA
+Yucaipa,CA
+Hacienda Heights,CA
+West Sacramento,CA
+Colton,CA
+San Jacinto,CA
+Paramount,CA
+Novato,CA
+Beaumont,CA
+Watsonville,CA
+Glendora,CA
+Florin,CA
+Aliso Viejo,CA
+Placentia,CA
+Cathedral City,CA
+Delano,CA
+Covina,CA
+Rosemead,CA
+Palm Desert,CA
+El Dorado Hills,CA
+Cypress,CA
+Azusa,CA
+Lincoln,CA
+Cerritos,CA
+North Highlands,CA
+Ceres,CA
+Poway,CA
+Antelope,CA
+Rowland Heights,CA
+La Mirada,CA
+Rancho Santa Margarita,CA
+Newark,CA
+Brea,CA
+San Luis Obispo,CA
+Los Banos,CA
+Morgan Hill,CA
+Palm Springs,CA
+Lompoc,CA
+Rohnert Park,CA
+El Centro,CA
+Campbell,CA
+Vineyard,CA
+San Bruno,CA
+Danville,CA
+Oakley,CA
+Altadena,CA
+Rancho Palos Verdes,CA
+Coachella,CA
+Hollister,CA
+Culver City,CA
+San Gabriel,CA
+Bell Gardens,CA
+Pacifica,CA
+Calexico,CA
+La Puente,CA
+Adelanto,CA
+Stanton,CA
+Monrovia,CA
+Montclair,CA
+La Quinta,CA
+Martinez,CA
+Claremont,CA
+Wildomar,CA
+Temple City,CA
+Moorpark,CA
+Oildale,CA
+Foothill Farms,CA
+West Hollywood,CA
+Orangevale,CA
+Manhattan Beach,CA
+French Valley,CA
+San Juan Capistrano,CA
+La Presa,CA
+San Dimas,CA
+Pleasant Hill,CA
+Westmont,CA
+Foster City,CA
+Menlo Park,CA
+Bell,CA
+Los Gatos,CA
+Dana Point,CA
+Beverly Hills,CA
+Goleta,CA
+Fair Oaks,CA
+Desert Hot Springs,CA
+Seaside,CA
+Fallbrook,CA
+San Pablo,CA
+Orcutt,CA
+Atwater,CA
+Lawndale,CA
+Los Altos,CA
+El Paso de Robles (Paso Robles),CA
+Burlingame,CA
+Laguna Hills,CA
+La Verne,CA
+Saratoga,CA
+Spring Valley CDP,CA
+San Carlos,CA
+Santa Paula,CA
+Monterey,CA
+East Palo Alto,CA
+Atascadero,CA
+San Lorenzo,CA
+Suisun City,CA
+Banning,CA
+Lathrop,CA
+Walnut,CA
+Belmont,CA
+Twentynine Palms,CA
+Ridgecrest,CA
+Lemon Grove,CA
+Benicia,CA
+Wasco,CA
+Lemoore,CA
+South Pasadena,CA
+Sanger,CA
+Eureka,CA
+Brawley,CA
+Windsor,CA
+Norco,CA
+Temescal Valley,CA
+Ladera Ranch,CA
+Imperial Beach,CA
+Hercules,CA
+El Cerrito,CA
+North Tustin,CA
+Barstow,CA
+Lafayette,CA
+Galt,CA
+West Whittier-Los Nietos,CA
+Seal Beach,CA
+Reedley,CA
+Maywood,CA
+Soledad,CA
+Riverbank,CA
+Loma Linda,CA
+Selma,CA
+Dinuba,CA
+Mountain House,CA
+West Rancho Dominguez,CA
+Bloomington,CA
+Willowbrook,CA
+San Fernando,CA
+Bay Point,CA
+Ashland,CA
+Patterson,CA
+Rosemont,CA
+Calabasas,CA
+Millbrae,CA
+Oakdale,CA
+Laguna Beach,CA
+West Puente Valley,CA
+West Carson,CA
+Cudahy,CA
+East San Gabriel,CA
+Valinda,CA
+Winter Gardens,CA
+Marina,CA
+Corcoran,CA
+Port Hueneme,CA
+Rancho San Diego,CA
+American Canyon,CA
+Yucca Valley,CA
+Duarte,CA
+Linda,CA
+Ramona,CA
+South Lake Tahoe,CA
+Granite Bay,CA
+Lakeside,CA
+Stanford,CA
+Rosamond,CA
+Lomita,CA
+La Canada Flintridge,CA
+Lennox,CA
+Agoura Hills,CA
+Albany,CA
+Imperial,CA
+Coronado,CA
+Stevenson Ranch,CA
+Oroville,CA
+La Crescenta-Montrose,CA
+Shafter,CA
+South San Jose Hills,CA
+Mead Valley,CA
+Hermosa Beach,CA
+Casa de Oro-Mount Helix,CA
+South El Monte,CA
+Orinda,CA
+Arvin,CA
+East Hemet,CA
+Santa Fe Springs,CA
+Chowchilla,CA
+Pinole,CA
+Dixon,CA
+Castaic and Greenfield city,CA
+Prunedale,CA
+Cameron Park,CA
+Arcata,CA
+Rosedale,CA
+Arroyo Grande,CA
+Blythe,CA
+Nipomo,CA
+Laguna Woods,CA
+Coalinga,CA
+El Segundo,CA
+Live Oak,CA
+Rancho Mirage,CA
+Bostonia,CA
+Moraga,CA
+Truckee,CA
+Susanville,CA
+Clearlake,CA
+Ukiah,CA
+Olivehurst,CA
+Fillmore,CA
+Artesia,CA
+McKinleyville,CA
+Valle Vista,CA
+Kerman,CA
+Ripon,CA
+Parkway,CA
+Rio Linda,CA
+Cherryland,CA
+Vincent,CA
+La Palma,CA
+El Sobrante,CA
+Isla Vista,CA
+Woodcrest,CA
+Discovery Bay,CA
+Alamo,CA
+Walnut Park,CA
+East Rancho Dominguez,CA
+Pacific Grove,CA
+California City,CA
+Coto de Caza and Red Bluff,CA
+Alpine,CA
+Parlier,CA
+Lemon Hill,CA
+Los Osos,CA
+Mill Valley,CA
+Livingston,CA
+McFarland,CA
+Hawaiian Gardens,CA
+Lamont,CA
+El Sobrante CDP,CA
+North Fair Oaks,CA
+Grass Valley,CA
+Oak Park,CA
+Salida,CA
+Phelan,CA
+Auburn,CA
+Avenal,CA
+North Auburn,CA
+Palos Verdes Estates,CA
+King City,CA
+Avocado Heights,CA
+Carpinteria,CA
+Lake Los Angeles,CA
+Grand Terrace,CA
+Larkspur,CA
+Solana Beach,CA
+Tehachapi,CA
+Bonita,CA
+Emeryville,CA
+Marysville,CA
+San Anselmo,CA
+Big Bear City,CA
+Grover Beach,CA
+Lindsay,CA
+Mendota,CA
+Fortuna,CA
+San Marino,CA
+Camp Pendleton South,CA
+Lake Arrowhead,CA
+Kingsburg,CA
+Commerce,CA
+Lakeland Village,CA
+Newman,CA
+Sun Village,CA
+Scotts Valley,CA
+Alum Rock,CA
+Signal Hill,CA
+Half Moon Bay,CA
+Los Alamitos,CA
+Winton,CA
+Crestline,CA
+Tamalpais-Homestead Valley,CA
+Quartz Hill,CA
+View Park-Windsor Hills,CA
+Garden Acres,CA
+Hillsborough,CA
+Marina del Rey,CA
+Diamond Springs,CA
+Fairview,CA
+Healdsburg,CA
+Anderson,CA
+Piedmont,CA
+Sierra Madre,CA
+La Riviera,CA
+Home Gardens,CA
+Canyon Lake,CA
+Clayton,CA
+Country Club,CA
+Morro Bay,CA
+Placerville,CA
+Sonoma,CA
+Muscoy,CA
+Delhi,CA
+Malibu,CA
+Rossmoor,CA
+Farmersville,CA
+San Diego Country Estates,CA
+East Whittier,CA
+Shasta Lake,CA
+Del Aire,CA
+Exeter,CA
+Citrus,CA
+Corte Madera,CA
+Valley Center,CA
+Calimesa,CA
+Rio Vista,CA
+Soquel,CA
+Capitola,CA
+Charter Oak,CA
+Rodeo,CA
+Orange Cove,CA
+Blackhawk,CA
+Spring Valley Lake,CA
+Golden Hills,CA
+Mentone,CA
+Bonadelle Ranchos-Madera Ranchos,CA
+Good Hope,CA
+Oak Hills,CA
+West Athens,CA
+Madera Acres,CA
+Tiburon,CA
+Rio del Mar,CA
+Waterford,CA
+Live Oak city,CA
+Cloverdale,CA
+Midway City,CA
+Gonzales,CA
+Montecito,CA
+August,CA
+Alondra Park,CA
+Topanga,CA
+Taft,CA
+University of California-Davis,CA
+Larkfield-Wikiup,CA
+Los Altos Hills,CA
+Templeton,CA
+Orosi,CA
+Orland,CA
+Rolling Hills Estates,CA
+Corning and Bermuda Dunes,CA
+Mecca,CA
+Plumas Lake,CA
+Firebaugh and Fort Irwin,CA
+Pismo Beach,CA
+Guadalupe,CA
+Oroville East,CA
+Westlake Village,CA
+Thousand Palms,CA
+South San Gabriel,CA
+Gold River,CA
+Yreka,CA
+Magalia,CA
+Earlimart,CA
+Ojai,CA
+Fairfax,CA
+Cotati,CA
+Sebastopol,CA

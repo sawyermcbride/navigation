@@ -1,0 +1,259 @@
+city,road,distance,
+Thousand Oaks,Highway 101,,
+Santa Maria,Highway 101,120,
+San Luis Obispo,Highway 101,33,153
+Salinas,Highway 101,126,279
+Gilroy,Highway 101,28,307
+San Jose,Highway 101,33,340
+Mountain View,Highway 101,14,354
+San Mateo,Highway 101,21,375
+Daly City,Highway 101,15,390
+San Francisco,Highway 101,10,400
+Corte Madera,Highway 101,15,415
+Larkspur,Highway 101,1,416
+San Rafael,Highway 101,5,421
+Novato,Highway 101,11,432
+Petaluma,Highway 101,11,443
+Santa Rosa,Highway 101,17,460
+Ukiah,Highway 101,61,521
+Fortuna,Highway 101,141,662
+Eureka,Highway 101,18,680
+Crecente,Highway 101,,680
+San Ysidro,Interstate 5,,0
+Chula Vista,Interstate 5,8,8
+National City,Interstate 5,3,11
+San Diego,Interstate 5,5,16
+Solana Beach,Interstate 5,23,39
+Cardiff-by-the-Sea,Interstate 5,2,41
+Encinitas,Interstate 5,2,43
+Carlsbad,Interstate 5,11,54
+Oceanside,Interstate 5,5,59
+San Onofre,Interstate 5,,59
+San Clemente,Interstate 5,22,81
+Dana Point,Interstate 5,4,85
+San Juan Capistrano,Interstate 5,3,88
+Mission Viejo,Interstate 5,9,97
+Laguna Hills,Interstate 5,3,100
+Irvine,Interstate 5,9,109
+Tustin,Interstate 5,8,117
+Santa Ana,Interstate 5,2,119
+Orange,Interstate 5,4,123
+Anaheim,Interstate 5,9,132
+Buena Park,Interstate 5,8,140
+La Mirada,Interstate 5,3,143
+Santa Fe Springs,Interstate 5,1,144
+Norwalk,Interstate 5,5,149
+Pico Rivera,Interstate 5,9,158
+Downey,Interstate 5,1,159
+Commerce,Interstate 5,3,162
+East Los Angeles,Interstate 5,4,166
+Los Angeles,Interstate 5,3,169
+Glendale,Interstate 5,13,182
+Burbank,Interstate 5,9,191
+San Fernando,Interstate 5,18,209
+Sylmar,Interstate 5,4,213
+Santa Clarita,Interstate 5,20,233
+Valencia,Interstate 5,1,234
+Castaic,Interstate 5,7,241
+Gorman,Interstate 5,52,293
+Lebec,Interstate 5,5,298
+Fort Tejon,Interstate 5,2,300
+Wheeler Ridge,Interstate 5,12,312
+Bakersfield,Interstate 5,35,347
+Buttonwillow,Interstate 5,15,362
+Lost Hills,Interstate 5,10,372
+Kettleman City,Interstate 5,50,422
+Coalinga,Interstate 5,19,441
+Firebaugh,Interstate 5,53,494
+Santa Nella,Interstate 5,32,526
+Patterson,Interstate 5,40,566
+Westley,Interstate 5,1,567
+Vernalis,Interstate 5,19,586
+Tracy,Interstate 5,10,596
+Lathrop,Interstate 5,20,616
+French Camp,Interstate 5,14,630
+Stockton,Interstate 5,5,635
+Lodi,Interstate 5,20,655
+Thornton,Interstate 5,18,673
+Elk Grove,Interstate 5,50,723
+Sacramento,Interstate 5,35,758
+Woodland,Interstate 5,39,797
+Yolo,Interstate 5,7,804
+Zamora,Interstate 5,10,814
+Dunnigan,Interstate 5,13,827
+Hershey,Interstate 5,1,828
+Arbuckle,Interstate 5,16,844
+Williams,Interstate 5,25,869
+Maxwell,Interstate 5,17,886
+Delevan,Interstate 5,9,895
+Willows,Interstate 5,24,919
+Bluegum,Interstate 5,1,920
+Orland,Interstate 5,25,945
+Corning,Interstate 5,23,968
+Richfield,Interstate 5,1,969
+Red Bluff,Interstate 5,17,986
+Cottonwood,Interstate 5,17,1003
+Anderson,Interstate 5,4,1007
+Redding,Interstate 5,7,1014
+North Redding,Interstate 5,4,1018
+Shasta Lake,Interstate 5,24,1042
+O'Brien,Interstate 5,14,1056
+Lakeshore,Interstate 5,10,1066
+Lakehead,Interstate 5,1,1067
+Delta,Interstate 5,9,1076
+Castle Crag,Interstate 5,27,1103
+Dunsmuir,Interstate 5,4,1107
+Shasta Springs,Interstate 5,3,1110
+Mount Shasta,Interstate 5,7,1117
+Weed,Interstate 5,11,1128
+Grenada,Interstate 5,24,1152
+Yreka,Interstate 5,12,1164
+Hornbrook,Interstate 5,20,1184
+Tracy,Interstate 580,,
+Vernalis,Interstate 580,,
+Livermore,Interstate 580,,
+Dublin,Interstate 580,,
+Pleasanton,Interstate 580,,
+Castro Valley,Interstate 580,,
+San Leandro,Interstate 580,,
+Oakland,Interstate 580,,
+Emeryville,Interstate 580,,
+Berkeley,Interstate 580,,
+Albany,Interstate 580,,
+Richmond,Interstate 580,,
+San Rafael,Interstate 580,,
+Lathrop,Interstate 205,,
+Tracy,Interstate 205,,
+San Jose,Interstate 680,,
+Milpitas,Interstate 680,,
+Freemont,Interstate 680,,
+Cordelia,Interstate 680,,
+Verona,Interstate 680,,
+Dublin,Interstate 680,,
+San Ramon,Interstate 680,,
+Danville,Interstate 680,,
+Alamo,Interstate 680,,
+Walnut Creek,Interstate 680,,
+Pleasant Hill,Interstate 680,,
+Concord,Interstate 680,,
+Benecia,Interstate 680,,
+San Francisco,Interstate 80,,
+Oakland,Interstate 80,,
+Emeryville,Interstate 80,,
+Berkeley,Interstate 80,,
+Albany,Interstate 80,,
+Richmond,Interstate 80,,
+El Cerrito,Interstate 80,,
+Richmond,Interstate 80,,
+San Pablo,Interstate 80,,
+Pinole,Interstate 80,,
+Hercules,Interstate 80,,
+Vallejo,Interstate 80,,
+Fairfield,Interstate 80,,
+Vacaville,Interstate 80,,
+Dixon,Interstate 80,,
+Davis,Interstate 80,,
+West Sacramento,Interstate 80,,
+Sacramento,Interstate 80,,
+Cirus Heights,Interstate 80,,
+Roseville,Interstate 80,,
+Rocklin,Interstate 80,,
+Loomis,Interstate 80,,
+Auburn,Interstate 80,,
+Colfax,Interstate 80,,
+Hercules,Route 4,,
+Martinez,Route 4,,
+Concord,Route 4,,
+Pittsburg,Route 4,,
+Antioch,Route 4,,
+Brentwood,Route 4,,
+Byron,Route 4,,
+Stockton,Route 4,,
+Farmington,Route 4,,
+Benecia,Interstate 780,,
+Vallejo,Interstate 780,,
+Novato,Route 37,,
+Vallejo,Route 37,,
+Bakersfield,Route 99,,
+Shafter,Route 99,,
+Famoso,Route 99,,
+Mcfarland,Route 99,,
+Earlimart,Route 99,,
+Pixley,Route 99,,
+Tipton,Route 99,,
+Tulare,Route 99,,
+Visalia,Route 99,,
+Goshen,Route 99,,
+Traver,Route 99,,
+Kingburg,Route 99,,
+Selma,Route 99,,
+Fowler,Route 99,,
+Fresno,Route 99,,
+Madera,Route 99,,
+Merced,Route 99,,
+Turlock,Route 99,,
+Modesto,Route 99,,
+Manteca,Route 99,,
+Stockton,Route 99,,
+Lodi,Route 99,,
+Galt,Route 99,,
+Elk Grove,Route 99,,
+Sacramento,Route 99,,
+Yuba City,Route 99,,
+Durham,Route 99,,
+Chico,Route 99,,
+San Diego,Interstate 15,,
+Escondido,Interstate 15,,
+Bonsall,Interstate 15,,
+Rainbow,Interstate 15,,
+Temecula,Interstate 15,,
+Murrieta,Interstate 15,,
+Wildomar,Interstate 15,,
+Corona,Interstate 15,,
+Norco,Interstate 15,,
+Ontario,Interstate 15,,
+Rancho Cucamongo,Interstate 15,,
+Fontana,Interstate 15,,
+San Bernardino,Interstate 15,,
+Barstow,Interstate 15,,
+Baker,Interstate 15,,
+Santa Monica,Interstate 10,,
+Los Angeles,Interstate 10,,
+Alhambra,Interstate 10,,
+San Gabriel,Interstate 10,,
+Rosemead,Interstate 10,,
+El Monte,Interstate 10,,
+Baldwin Park,Interstate 10,,
+West Covina,Interstate 10,,
+Covina,Interstate 10,,
+San Dimas,Interstate 10,,
+Pomona,Interstate 10,,
+Claremont,Interstate 10,,
+Montclair,Interstate 10,,
+Upland,Interstate 10,,
+Ontario,Interstate 10,,
+Fontana,Interstate 10,,
+Bloomington,Interstate 10,,
+Colton,Interstate 10,,
+San Bernardino,Interstate 10,,
+Loma Linda,Interstate 10,,
+Redlands,Interstate 10,,
+Calimesa,Interstate 10,,
+Beaumont,Interstate 10,,
+Banning,Interstate 10,,
+Cabazon,Interstate 10,,
+White Water,Interstate 10,,
+North Palm Springs,Interstate 10,,
+Cathedral City,Interstate 10,,
+Rancho Mirage,Interstate 10,,
+Palm Dessert,Interstate 10,,
+Indio,Interstate 10,,
+Blythe,Interstate 10,,
+Barstow,Interstate 40,,
+Ludlow,Interstate 40,,
+Needles,Interstate 40,,
+Larkspur,Sir Francis Drake Blvd,,
+Kentfield,Sir Francis Drake Blvd,,
+Ross,Sir Francis Drake Blvd,,
+San Anselmo,Sir Francis Drake Blvd,,
+Fairfax,Sir Francis Drake Blvd,,

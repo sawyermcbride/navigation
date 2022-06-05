@@ -1,0 +1,345 @@
+id,name,marker,state,distance
+R1d181159-f76d-4d32-af9a-532cd395c8c8,Interstate 5,San Diego,CA,
+Rb1113d8f-4033-4a0a-8197-8bbb8898eedc,Interstate 5,Chula Vista,CA,
+R624ca842-9c22-4a26-818c-1e1426559fcb,Interstate 5,National City,CA,
+R10682118-fad6-4a1e-bf8e-b189f073e18a,Interstate 5,San Diego,CA,
+Re174a882-176e-4c38-a704-efc2e8b0c6fc,Interstate 5,San Diego–Solana Beach line,CA,
+Ra449f69c-7686-45dc-a1bd-ba3f79ce7874,Interstate 5,Solana Beach,CA,
+R7d516f56-0036-4f38-9885-48a03baf6d29,Interstate 5,Encinitas,CA,
+R70d15ed1-91e7-4ced-a924-0aa491c1c7cd,Interstate 5,Encinitas–Carlsbad line,CA,
+R33aaff05-6b92-48c4-98b2-b6fea8c99c8e,Interstate 5,Carlsbad,CA,
+R7f1ddfe2-e91a-43c4-acaa-8255b7160cd4,Interstate 5,Oceanside,CA,
+R9810b845-05ca-4d76-bebf-beb4589979d5,Interstate 5,Camp Pendleton South,CA,
+Raa70c8e2-14f4-41a2-b130-77c2d1e51212,Interstate 5,San Clemente,CA,
+R99c54dbe-05fe-47fd-982c-de5519f94b18,Interstate 5,Orange,CA,
+R33a64b6c-5ebc-44c1-9dca-04aa9cde4a98,Interstate 5,San Clemente–Dana Point line,CA,
+R6304e027-e17b-4de6-9557-1e5b2bb9d46c,Interstate 5,Dana Point–San Juan Capistrano line,CA,
+Rf1329ec1-0c3c-4b03-8678-32a2a0dfac22,Interstate 5,San Juan Capistrano,CA,
+R7619b1da-961c-49ec-b7f7-2613d233ab6b,Interstate 5,San Juan Capistrano–Mission Viejo line,CA,
+Re8c8963a-5de4-4534-825e-03feb73f7609,Interstate 5,Mission Viejo,CA,
+R5b5576a7-3758-4d09-8064-3e79d5df5371,Interstate 5,Mission Viejo–Laguna Hills line,CA,
+R7f664e3f-625b-496b-9cec-a640bb55658d,Interstate 5,Laguna Hills–Lake Forest line,CA,
+R3d293543-5b88-4f77-9daa-03f98a497d57,Interstate 5,Irvine–Tustin line,CA,
+R581ca899-2ab7-4842-8563-7c2ae195d0eb,Interstate 5,Tustin,CA,
+R5acb6108-a2d3-4b2e-b587-8965b5dfb8a6,Interstate 5,Santa Ana,CA,
+Ra855311e-3552-46ea-a945-f1673cb62a0e,Interstate 5,Santa Ana–Orange line,CA,
+Re120fe8c-a0c6-4c47-aa0d-414053eb8361,Interstate 5,Orange,CA,
+R86edbc7e-5d12-4774-9c62-4f288d403b3f,Interstate 5,Anaheim,CA,
+Raaea888a-44a2-4ffb-81d8-f5c478ba4633,Interstate 5,Anaheim–Fullerton line,CA,
+Re900e6d4-1c61-4140-b98a-61df4d7b2804,Interstate 5,Fullerton,CA,
+Rd8cdc14d-fe9a-477f-9993-d4fe3b6cdeb1,Interstate 5,Fullerton–Buena Park line,CA,
+R05baab84-6d39-46dc-ad13-9c899a89c4cf,Interstate 5,Buena Park,CA,
+R78653e19-5ba9-42aa-a801-ca9d0b9ad360,Interstate 5,La Mirada–Santa Fe Springs line,CA,
+Rfb05ccb1-4e83-49a5-85f7-fc630912e096,Interstate 5,Santa Fe Springs,CA,
+R4d4b3287-99c8-464b-8ab9-c88fc1519977,Interstate 5,Santa Fe Springs–Norwalk line,CA,
+Ra2b6f80d-b0e5-48eb-8b54-ec75d012aec3,Interstate 5,Norwalk,CA,
+Re3c2fbb4-4a06-462b-ab35-06506940bf4a,Interstate 5,Santa Fe Springs–Downey line,CA,
+R36effeb1-597a-48ab-b563-2d7b801212ce,Interstate 5,Downey,CA,
+Re6b2d92b-c891-4dd8-a0b7-65f0e50f7e3c,Interstate 5,Montebello–Commerce line,CA,
+Rd74c62ba-0b00-4fc9-b153-71b501204ed1,Interstate 5,Commerce,CA,
+Rbf00ca48-cb37-4e3e-b3f1-3e64fed942f3,Interstate 5,East Los Angeles,CA,
+R25f475b2-5d29-4380-a4b2-3b803de84111,Interstate 5,Los Angeles,CA,
+Re0078c21-bc50-4b97-aba9-c7af061ce01c,Interstate 5,Glendale,CA,
+Rd14faca4-a952-4527-8602-5027b693619f,Interstate 5,Burbank,CA,
+Rcd1cf7f4-c024-4217-ad51-a6c6ca7bcc28,Interstate 5,Los Angeles,CA,
+Rde8092b5-f215-4e79-99cb-74d75ae5b093,Interstate 5,Santa Clarita,CA,
+R8055a31d-c71c-480c-a6bc-eee7716a55dd,Interstate 5,Castaic,CA,
+Rb42e7ae6-8cd8-420a-a5e8-d93ebc268157,Interstate 5,Lebec,CA,
+R83ec1ed8-d01f-4437-8d1c-bfa6f5c30395,Interstate 5,Wheeler Ridge,CA,
+R13c1b188-20b3-49b2-b4e5-95039d2f7151,Interstate 5,Buttonwillow,CA,
+R14209080-5d75-4afd-a833-945b1f2416b3,Interstate 5,Lost Hills,CA,
+Re1d328cf-9372-41bb-97e4-1605efa01c15,Interstate 5,Kettleman City,CA,
+R2eb368e6-cc97-4abf-96aa-dc3cbea1439e,Interstate 5,Avenal,CA,
+R7760be40-d8f1-497c-be25-c36a059f0c75,Interstate 5,Santa Nella,CA,
+Rc7fff010-1f48-48d2-a434-f3b9cfdf64fd,Interstate 5,Patterson,CA,
+R0c03dba7-d17f-4434-a37c-2ef9b9c6fe1d,Interstate 5,Lathrop,CA,
+Raacd59a2-6137-4e57-a367-da3509d61651,Interstate 5,French Camp,CA,
+Rc293b118-b89b-48ee-b4a3-937b05d12c46,Interstate 5,Stockton,CA,
+R99661141-6210-424f-80a3-895d5ef4cf2f,Interstate 5,Elk Grove,CA,
+Rff209d9e-320d-4cf9-a473-0cf73b034e2c,Interstate 5,Sacramento,CA,
+R3f115a37-329f-4e19-ac25-b5364b2b7797,Interstate 5,Woodland,CA,
+R79952fb1-e134-47ab-bded-0d248f53a334,Interstate 5,Arbuckle,CA,
+R180df0e4-e150-44ed-ac8e-8ee03bc9b74f,Interstate 5,Williams,CA,
+Rc74b7ce4-9893-4c24-b4f4-4356d16a4c3f,Interstate 5,Willows,CA,
+R41b0c884-4190-4544-97cf-0c09d560e96b,Interstate 5,Orland,CA,
+Recc1d0d7-3524-4592-a108-70e3c53fcf69,Interstate 5,Corning,CA,
+Racdfc26d-c484-40dc-b9a3-97d28f2dd9cb,Interstate 5,Red Bluff,CA,
+Rae371a74-4a95-4315-b506-a25bac7528fa,Interstate 5,Cottonwood,CA,
+Rc2dbf344-4a41-48ff-bc94-b62cf8f2330e,Interstate 5,Anderson,CA,
+R35589363-195f-4a04-aa65-c7be3521e7c3,Interstate 5,Redding,CA,
+Ra7dfe954-4eb1-4db9-9bc6-667530e84c71,Interstate 5,Shasta Lake,CA,
+R7d3c936f-992a-43d7-a738-34f7dd10d179,Interstate 5,Lakehead-Lakeshore,CA,
+Ra92a116e-ee43-4086-9e05-42a6e5d2213c,Interstate 5,Dunsmuir,CA,
+R57f7b9a7-7dbd-4ee5-948e-c65d8c212fd5,Interstate 5,Mount Shasta,CA,
+Rcc8edf9d-9721-405e-9e06-e0bab1968c49,Interstate 5,Weed,CA,
+Red609562-ee56-4fd2-8577-c6f8d3250d87,Interstate 5,Grenada,CA,
+Ra1241983-ec57-4b0a-a42e-5bac0760c8a8,Interstate 5,Yreka,CA,
+Rfee61bc6-1a13-4175-baae-98a131b5b244,Interstate 5,Hornbrook,CA,
+Rf723af04-b09b-45db-a411-3da2fb62a6ce,Interstate 80,San Francisco,CA,
+R78e31ca3-d6ea-4191-800b-2843e686b137,Interstate 80,Emeryville,CA,
+Re0e4e605-78cf-4fef-8fdb-d54838213b6c,Interstate 80,Berkeley,CA,
+R0ee1c398-d23e-48ba-8e6d-6fecfdfad443,Interstate 80,Richmond,CA,
+Rbbfe01bb-9689-4e69-b0ea-acae5b961f81,Interstate 80,San Pablo,CA,
+R2f5b6bc0-d1c9-4b14-8747-067b5b4186eb,Interstate 80,El Sobrante,CA,
+Rdef8a157-cb2b-4e7f-86ff-ca69f65efe4a,Interstate 80,Pinole,CA,
+R2e7a7caa-cb2d-4a8c-ba26-702bbbc8d5d8,Interstate 80,Hercules,CA,
+R7bbfcbdf-33f8-4224-b358-fb09d3fe04e4,Interstate 80,Rodeo,CA,
+R403c3dfe-5c98-4a0c-8c6a-8d8ac032e583,Interstate 80,Crockett,CA,
+Rac15a724-ad2c-4007-8531-6d5a8cb92f5d,Interstate 80,Vallejo,CA,
+Rda33aa7f-1f07-4f76-8aaa-446aa8463fab,Interstate 80,Fairfield,CA,
+Rbbfecdf5-2e38-4783-ad21-eab4611a3f19,Interstate 80,Vacaville,CA,
+R3807ca54-af2a-422b-8f42-c9ac42186b2a,Interstate 80,Vacaville,CA,
+Re14c12c4-2b99-4b19-a243-1c7707dea09a,Interstate 80,Dixon,CA,
+Rdce708c2-fc8f-4e5f-a1d5-c4412dfa92f7,Interstate 80,Davis,CA,
+R3daba82b-b405-4aaa-b9db-2b8c0a0e61fc,Interstate 80,West Sacramento,CA,
+R26100d21-d06d-44de-9f2c-70f42c7df7eb,Interstate 80,Sacramento,CA,
+R179eb7de-a922-4983-b383-1f814c7513ee,Interstate 80,Sacramento,CA,
+Ra4ebf12e-38da-41f7-bb58-dbf87525d243,Interstate 80,North Highlands,CA,
+R5bda2d6a-1ea4-476c-bd33-1ea21a56725e,Interstate 80,Sacramento,CA,
+R0f52eeb4-9efe-4450-b79c-ad68832a912d,Interstate 80,Citrus Heights,CA,
+R8bdf4970-0902-433a-ae0b-c093280b53d7,Interstate 80,Roseville,CA,
+Re76bc592-8ff1-41d1-87b6-39c4308f633e,Interstate 80,Rocklin,CA,
+R5b2d8030-59b0-430b-a65c-f37a75d55cf6,Interstate 80,Loomis,CA,
+Rafaa8726-e6e5-4208-a5dd-f67d82afaf6c,Interstate 80,Newcastle,CA,
+Rcfeab08b-b275-4dd8-a74b-f54d18272df4,Interstate 80,Auburn,CA,
+R059ccb8b-2a72-47cb-ad69-ffef49a0947a,Interstate 80,Applegate,CA,
+R4bf142e4-108f-44c4-b3ab-4b00fe4adae9,Interstate 80,Colfax,CA,
+R4c81ca3e-f4e8-45f9-9350-ee5d8a37bd83,Interstate 80,Gold Run,CA,
+Rdee749ea-534d-4195-8385-1e5862b7aa5d,Interstate 80,Dutch Flat,CA,
+Rc72f5106-d0f7-4a2c-9c4f-b29397ed6aec,Interstate 80,Alta,CA,
+R27e23c8b-7e84-4d68-b2b1-6fb14563afd3,Interstate 80,Soda Springs,CA,
+Rc32528c9-7d1f-43e6-a0ab-804a5fee8796,Interstate 80,Kingvale,CA,
+R68cbbe2d-ba22-4d68-835d-0442a67a947d,Interstate 80,Soda Springs,CA,
+R7e1db05f-7c41-4fb6-87da-5f876105b6a7,Interstate 80,Truckee,CA,
+R9c75afb0-0c04-4c7b-ae9c-81506c015224,Interstate 80,Floriston,CA,
+eef782e6-f28f-43d7-b1b6-4eb19a7525e4,Highway 101,Thousand Oaks,CA
+92fe3e5c-277f-4e1d-a622-baee55ebe29e,Highway 101,Santa Maria,CA
+238ad746-959f-4990-b8f0-dcfede3cb927,Highway 101,San Luis Obispo,CA
+290f39d1-807b-46fb-8b92-94ed28f3c0b3,Highway 101,Salinas,CA
+38e32012-aec7-443c-99a7-e1d9ac3a4533,Highway 101,Gilroy,CA
+3424653c-42a8-4aaa-9979-e698e7acd85d,Highway 101,San Jose,CA
+d954e120-03db-4f09-850f-70b7fa7c7cc0,Highway 101,Mountain View,CA
+c1527573-3ab1-4154-9fd1-aa6faef9fdaa,Highway 101,San Mateo,CA
+5de9ef2b-ccc9-4012-ba35-14c6c5203ed7,Highway 101,Daly City,CA
+7ffdc7d1-43ec-4d2a-938d-79a75d6aa17b,Highway 101,San Francisco,CA
+726af533-a195-479e-a16b-938df941fdf0,Highway 101,Corte Madera,CA
+03b321c0-7f8f-4471-ba41-9f8cd1137ec7,Highway 101,Larkspur,CA
+0033c783-00d7-42e1-8397-e986ee26c96d,Highway 101,San Rafael,CA
+b4122bf0-ab20-45a6-967b-88221420613e,Highway 101,Novato,CA
+abfb05ff-db36-4309-b30e-6232eca1d5c1,Highway 101,Petaluma,CA
+27519f8f-a45e-4b37-a917-0700315346e2,Highway 101,Santa Rosa,CA
+806c4834-5b6a-40cc-b4de-e971a4d6d779,Highway 101,Ukiah,CA
+300c1ea4-8a2e-4171-8512-df27c3a452c0,Highway 101,Fortuna,CA
+46c2fe7b-3e07-4c0c-be5a-f190bedd3626,Highway 101,Eureka,CA
+bf568d38-ded6-42a2-a6cf-d97c2c9adbe0,Highway 101,Crecente,CA
+f5398ba3-3dff-4ca2-a743-557511ffb60b,Interstate 580,Tracy,CA
+8383c33f-2e80-4cbf-83fb-82d992840ed5,Interstate 580,Vernalis,CA
+d676b933-4da4-4ec1-acb3-7e8bfa2c954c,Interstate 580,Livermore,CA
+3455b625-9522-4c99-95ab-7b03b42acfbe,Interstate 580,Dublin,CA
+318598b3-f3cd-4a16-ac50-6d96022b4d82,Interstate 580,Pleasanton,CA
+01e7376a-e3d5-46be-b557-1669b05567e5,Interstate 580,Castro Valley,CA
+a8ae3f58-ae72-4a13-b9d5-cb4ceff8570c,Interstate 580,San Leandro,CA
+41f87241-8352-48b6-bd16-64ec25ac428f,Interstate 580,Oakland,CA
+5a303632-ef00-4550-8ac0-654b39d04525,Interstate 580,Emeryville,CA
+e7823197-8e6f-4034-85e3-47dc9d94ed88,Interstate 580,Berkeley,CA
+815b0ecc-50ab-4125-ab22-34dc9a92dd1f,Interstate 580,Albany,CA
+af31f711-4a96-4436-a6dd-cb0d3c08cca2,Interstate 580,Richmond,CA
+c7b04df5-d280-489d-b45a-b9318270930c,Interstate 580,San Rafael,CA
+c1d90cdb-7af3-42d1-ab1a-fc135cbc59f8,Interstate 205,Lathrop,CA
+54c38161-c543-43f6-9538-efb8817985e2,Interstate 205,Tracy,CA
+3e176b77-ba20-419e-a845-06168ab40735,Interstate 680,San Jose,CA
+9b60bd80-4fd5-4fff-806d-4bc5d1b087e0,Interstate 680,Milpitas,CA
+143aded3-dd1b-4c05-8f43-0f917058a624,Interstate 680,Freemont,CA
+cd232d72-5ee2-4322-a605-e0492a80ba59,Interstate 680,Cordelia,CA
+56fd9170-3a19-462e-9967-e35d9a211012,Interstate 680,Verona,CA
+5440606b-7291-408e-aef1-476508e71c5a,Interstate 680,Dublin,CA
+d8cebea3-d47b-41f3-8961-274853bfd14a,Interstate 680,San Ramon,CA
+9c094536-8782-484d-9852-fe6a2f3599fb,Interstate 680,Danville,CA
+2d2c46f0-25f4-4ee7-8145-e31931941604,Interstate 680,Alamo,CA
+cf35b0eb-af2d-40ad-94c2-97c54f4a566b,Interstate 680,Walnut Creek,CA
+93111984-abdc-4633-bec7-bbd5e1527976,Interstate 680,Pleasant Hill,CA
+17a986cc-4b34-4afd-b972-3c6e824b653a,Interstate 680,Concord,CA
+5ed93e46-ee7f-4c37-938d-e0a6e3a45c61,Interstate 680,Benecia,CA
+586fc4b1-f099-4641-b9ee-97f0f95a372b,Route 4,Hercules,CA
+2e6d2106-76c4-4e12-bbc6-ee6b8e8f9111,Route 4,Martinez,CA
+ba1effce-57b7-4d46-97b6-beb1625c6280,Route 4,Concord,CA
+f8e382a5-368d-46d9-8401-354b6aaa3f06,Route 4,Pittsburg,CA
+54b32cd6-e96f-4641-8e08-eb3c887f0fd6,Route 4,Antioch,CA
+8312b7df-e06f-4e05-875e-eff55b987e54,Route 4,Brentwood,CA
+0e2f591b-8905-493c-9cbb-dd861a7b18a7,Route 4,Byron,CA
+74458896-1ecb-494c-a7aa-8a51272dd1fa,Route 4,Stockton,CA
+f525a4e5-6723-4cad-a774-a5c95cf0af27,Route 4,Farmington,CA
+42f2aea4-b5bc-4cce-805e-dd5715c78ccf,Interstate 780,Benecia,CA
+98866bd1-8ab8-4c75-8293-86eebcbb2495,Interstate 780,Vallejo,CA
+f6cf31d7-1a82-4587-aa28-c3b80d6d84f8,Route 37,Novato,CA
+f1085656-1ca1-4ba0-ac37-87d593652ccf,Route 37,Vallejo,CA
+5e7f8ede-ad82-4c5b-b8fb-06bbb754d4fd,Route 99,Bakersfield,CA
+04108a20-7b57-4623-bee3-4d75a987cfa7,Route 99,Shafter,CA
+09c97d9d-39b3-4b17-8e92-a13f1845e729,Route 99,Famoso,CA
+bd281f83-59c3-400c-b3e3-1799926533a5,Route 99,Mcfarland,CA
+e9140c92-0cbd-4871-8297-be37ea3e8dbc,Route 99,Earlimart,CA
+5a53bd54-478d-49a7-bb76-651c9f00d515,Route 99,Pixley,CA
+e85e3c81-185c-4be6-abb8-12e66e256754,Route 99,Tipton,CA
+aba489fa-454e-4561-af16-1cc5292371b6,Route 99,Tulare,CA
+399c38a1-3d5c-4811-ad38-c246c56b652a,Route 99,Visalia,CA
+80587569-6d99-43b4-89c4-e3a916550348,Route 99,Goshen,CA
+4b4a19b5-0411-4ee9-8b85-b153d0cd87ce,Route 99,Traver,CA
+e62fbb68-8bb7-4f7e-bdae-c7c33b962a01,Route 99,Kingburg,CA
+42908fdf-e003-428c-a96b-63ca03a76649,Route 99,Selma,CA
+dbef806d-f123-45c3-a537-856cddd318ea,Route 99,Fowler,CA
+d534c4e2-922b-45ef-8b5a-9cac5029be81,Route 99,Fresno,CA
+9a1b84f4-e5cc-401d-8e88-28db1343078f,Route 99,Madera,CA
+4d902bf2-2974-493e-bf3d-ddd9e9267c25,Route 99,Merced,CA
+6eea82a4-8aaa-4bbc-bf5f-d2505e9d3394,Route 99,Turlock,CA
+dea72159-0beb-45b1-be08-c4985377e017,Route 99,Modesto,CA
+d6a29e8c-1ce8-4ab7-affb-9099ba3b0441,Route 99,Manteca,CA
+f54ec6e9-af30-48ea-9972-70a8101477d4,Route 99,Stockton,CA
+6566cb99-a63e-4b64-87e5-6cb05ca108a3,Route 99,Lodi,CA
+cb34e1ea-2bf1-4a38-b6b6-04d3ec5450b5,Route 99,Galt,CA
+989f3a24-e82c-47ec-8ebc-8f3a8337d4cf,Route 99,Elk Grove,CA
+1c06ba56-8133-4e3a-a265-2107593bcba9,Route 99,Sacramento,CA
+95f93d86-469c-4546-b56c-9207e813f4e6,Route 99,Yuba City,CA
+dd382595-c71c-45eb-8d07-4deee496be8d,Route 99,Durham,CA
+f44b4d50-5898-43a3-ab9c-db1ca861ea9d,Route 99,Chico,CA
+c112ef6b-2a79-4f8c-9da3-c6505b029c4c,Interstate 15,San Diego,CA
+6571c9f0-4f70-420a-80fb-8be5314e1c71,Interstate 15,Escondido,CA
+e580d5b5-c8dd-4b7f-bf8f-4bf1a63b9b82,Interstate 15,Bonsall,CA
+cb0687f6-2e3d-4cdb-8feb-baf6420e6c57,Interstate 15,Rainbow,CA
+26b2bb6a-f031-4a48-99ff-cda0cbd7ab77,Interstate 15,Temecula,CA
+74b5800d-9a85-4627-b31f-5b74e2d4f836,Interstate 15,Murrieta,CA
+140e1d72-fc4a-4e69-9055-2512c9a47636,Interstate 15,Wildomar,CA
+b76c56ce-cedd-42af-a22d-84c8ac61317a,Interstate 15,Corona,CA
+86ef97d0-8eff-4150-bc7c-def2ce1765c6,Interstate 15,Norco,CA
+a12b4488-eb10-4702-86c5-a4b468b7c595,Interstate 15,Ontario,CA
+5b92a22c-9cbc-4504-b446-2df126f1fb01,Interstate 15,Rancho Cucamongo,CA
+b60422b5-cb69-403c-8161-e878a04f01b9,Interstate 15,Fontana,CA
+61c75de6-d4fe-410a-8e54-9102affcf054,Interstate 15,San Bernardino,CA
+5b39541a-2e0e-45a7-ae44-28e6e67bb251,Interstate 15,Barstow,CA
+915e90a7-c406-49d2-a900-3b406b1eb6e2,Interstate 15,Baker,CA
+b4091fae-0a08-4a52-a52d-ebaa6c2ea3dc,Interstate 10,Santa Monica,CA
+5239db8e-5490-4cb6-814c-37d33df288eb,Interstate 10,Los Angeles,CA
+e9bd5e6b-e1fc-472f-8740-803408c1ce87,Interstate 10,Alhambra,CA
+0fdd49db-3d46-4d82-8ed1-241afc1ec4a2,Interstate 10,San Gabriel,CA
+c4fa0840-87dd-43ba-b9af-29dad62a1e44,Interstate 10,Rosemead,CA
+4a570d91-e91d-4dbe-9463-29c3c1ed383b,Interstate 10,El Monte,CA
+14d073e0-9e08-4d4c-be80-60cce9fee8f3,Interstate 10,Baldwin Park,CA
+704e78b4-fb9e-4baf-b857-bd254ef11a19,Interstate 10,West Covina,CA
+8fd0f6bf-5199-4a4e-9b3a-d3df3f72ec60,Interstate 10,Covina,CA
+75bb97db-cca9-4b3f-9374-6da82324ea4f,Interstate 10,San Dimas,CA
+23619436-4bae-476e-931c-339a3f6cfb27,Interstate 10,Pomona,CA
+1a7cdc8d-e18e-4852-bb01-8aa7e5ad2831,Interstate 10,Claremont,CA
+433dccb9-e8e7-47e6-bf79-135b951f679e,Interstate 10,Montclair,CA
+22457117-91a8-485c-b11f-ce98aafcc2ac,Interstate 10,Upland,CA
+d0e98d2a-4fd2-44f6-a850-3e7f76de7c28,Interstate 10,Ontario,CA
+28603aff-c812-437b-a80a-1694356e34bd,Interstate 10,Fontana,CA
+e07478b9-c487-482e-9689-38be4e23a9ab,Interstate 10,Bloomington,CA
+6ddaa3c3-e64a-40e7-9bf9-9e0bec4bc3ef,Interstate 10,Colton,CA
+38ad4218-b834-4e4c-8327-cb0c278eff29,Interstate 10,San Bernardino,CA
+23d2b036-82e6-4aa0-bd46-deca5d26919f,Interstate 10,Loma Linda,CA
+0d703a2e-9945-4576-b0bb-ebe10a434a7c,Interstate 10,Redlands,CA
+f7a3f354-5dcc-489c-9492-27d1a03efe54,Interstate 10,Calimesa,CA
+db7182fe-b833-4ffc-935a-938f99350f62,Interstate 10,Beaumont,CA
+bed363aa-f4e2-407e-8a84-1bbccc5423ae,Interstate 10,Banning,CA
+b20c74e7-8d51-42d0-89c0-732965935b9b,Interstate 10,Cabazon,CA
+31d91805-02d0-40ee-a07c-2b4000180be5,Interstate 10,White Water,CA
+2a4f6635-7edc-4356-b379-279e221f2095,Interstate 10,North Palm Springs,CA
+ffd0e9a8-da6f-4d1a-a2a8-06d52881c3a5,Interstate 10,Cathedral City,CA
+4fa8243b-3264-43db-b6ab-938e807de415,Interstate 10,Rancho Mirage,CA
+21296d48-1805-436b-937c-b24fae05cc39,Interstate 10,Palm Dessert,CA
+9f561af3-d162-4391-9e10-1978fca36543,Interstate 10,Indio,CA
+212e7f99-10e1-4172-85c1-1749f73eb991,Interstate 10,Blythe,CA
+876535ec-adc9-41af-8d1c-be15a75cce91,Interstate 40,Barstow,CA
+0582cb7b-e144-4847-b46f-d4ba9865219c,Interstate 40,Ludlow,CA
+9356948e-3fe8-4d4b-b4af-d0866cf9fed7,Interstate 40,Needles,CA
+9272c5c5-1e38-4fcf-b1ba-50e3b1f9230c,Sir Francis Drake Blvd,Larkspur,CA
+960aadb7-953a-4586-afc1-9cbe0186d39f,Sir Francis Drake Blvd,Kentfield,CA
+8ade9679-b7c4-4dc7-962c-012f7e4584d7,Sir Francis Drake Blvd,Ross,CA
+cd71937f-97a1-498f-9443-a2e2bde50ff9,Sir Francis Drake Blvd,San Anselmo,CA
+164e1582-f683-401a-9698-e9ce0168639e,Sir Francis Drake Blvd,Fairfax,CA
+R644af0ac-5c0d-4793-97af-2877a15ad8cd,State Route 85,San Jose,CA,
+R5d50fcdd-2913-4679-b293-6b3c81ff3389,State Route 85,Los Gatos,CA,
+Re1a09c2c-4b2d-4a49-96bd-3d7eb232f0f4,State Route 85,Saratoga,CA,
+R8687f15e-c273-4400-b83e-f177f720f9e4,State Route 85,San Jose,CA,
+Rc7bbdb0e-bae4-4338-bdc7-5837a8421004,State Route 85,Cupertino,CA,
+R97b7722d-528a-4190-9058-c1f052d25298,State Route 85,Sunnyvale–Los Altos line,CA,
+R83d3ecb4-4e24-43e4-bba9-4b5c7aa1ad1c,State Route 85,Mountain View,CA,
+R4b76d871-9faf-4743-9ca6-e80bc754db7c,Interstate 280,San Jose,CA,
+R5f37ba4c-03fc-4376-9569-23355770fd9e,Interstate 280,Cupertino,CA,
+R8cb66222-b363-428f-8779-5c68a8ef7583,Interstate 280,Los Altos,CA,
+R30bcae59-6cfc-45d0-93ae-91539d06b551,Interstate 280,Los Altos Hills,CA,
+R73ed91f0-da60-47f5-ade3-4c3d0477aced,Interstate 280,Woodside,CA,
+Rb745a795-1072-4abe-89cd-386bb2ccf7c1,Interstate 280,Hillsborough,CA,
+R1c009c11-cf42-408d-809e-0cc520bb95ee,Interstate 280,Millbrae,CA,
+R5c5e3c88-af8b-435d-a4d3-7aa06a5659ab,Interstate 280,South San Francisco,CA,
+R49a9eb20-3839-45c5-a7a6-a08e68c3521e,Interstate 280,Daly City,CA,
+Rf1e61a01-6ae3-46d5-8233-8e8acc5ac9b9,Interstate 280,City and County of San Francisco,CA,
+R84e0f622-de1f-47ce-a002-e4c94cd04d79,State Route 17,Santa Cruz,CA,
+Rca7be651-65ca-4c8a-b012-c3aa02a42420,State Route 17,Scotts Valley,CA,
+R7ee22554-1c9a-432a-931e-6369532db268,State Route 17,Patchen Pass,CA,
+R0e2da6ee-0ebc-40c6-92fa-44ad4297a927,State Route 17,Campbell,CA,
+R13f720d3-e57a-439b-8466-8ef463b1f1a2,State Route 17,San Jose,CA,
+Rb905c9d9-fe9e-486e-96fd-5af3ea9009d8,Interstate 880,San Jose,CA,
+Rbf620770-ab73-4003-bc10-14583b0724f8,Interstate 880,Milpitas,CA,
+R67e28502-9f55-44a7-9ddc-152e9146f828,Interstate 880,Milpitas–Fremont line,CA,
+Rd13f7615-b3a7-4738-997a-5ad0fd414d6b,Interstate 880,Fremont,CA,
+R4dd9759e-e17c-4e5a-9684-75ad44425af4,Interstate 880,Fremont–Newark line,CA,
+Re5f08e45-2fa5-4784-ab12-8a437898a584,Interstate 880,Union City,CA,
+R84ac8260-9cfc-492b-9a3f-8a061d5a1c27,Interstate 880,Hayward,CA,
+R40ecd18c-8a36-449b-87d2-61fbedcc8444,Interstate 880,San Lorenzo,CA,
+R78b0cd64-c705-4e73-8317-79bbfc86a491,Interstate 880,San Leandro,CA,
+R123dd038-27ac-4844-92ea-847a90231485,Interstate 880,Oakland,CA,
+R833c0231-c104-40ad-a70e-e880d70e738f,State Route 152,Watsonville,CA,
+Rcb47af6a-cb89-4718-b94a-1c255b64437b,State Route 152,Interlaken,CA,
+R6fad385b-4aff-45f2-86f3-3079d3dbd0f8,State Route 152,Santa Cruz–Santa Claracounty line,CA,
+Rfa4fb14b-8cdb-4617-b57b-34d525926da2,State Route 152,Gilroy,CA,
+R10de522b-0182-4ce5-bbd4-22a64bfa79a0,State Route 152,Pacheco Pass,CA,
+Rb1c62f57-3d99-443c-85e8-938344264f96,State Route 152,Los Banos,CA,
+R642a8ef3-57e8-4dcd-84b1-c9d7af8dd5a5,State Route 152,Dos Palos Y,CA,
+Re52433cb-73dd-4a04-aed3-d2272833472b,State Route 152,Califa,CA,
+R22873cc0-c5ef-48c6-a92b-c2aece18e7a7,State Route 198,San Lucas,CA,
+R2bf0795a-9cf6-4d87-aa35-474c61c364ab,State Route 198,Coalinga,CA,
+R561e0f82-91fc-4267-9d4d-589c2c659b51,State Route 198,Lemoore Station,CA,
+R9b6dfb01-06c2-43f4-9146-a4475ec19eb5,State Route 198,Lemoore,CA,
+Ra84e9be7-20a8-47c6-902c-a05a84438105,State Route 198,Armona,CA,
+Rb84bd281-5b09-4c73-98a9-0fe0a1fac687,State Route 198,Hanford,CA,
+Rec119866-a9f1-435c-8e84-5132bc951089,State Route 198,Visalia,CA,
+R9d00ed81-a5f6-4b57-a69d-8e464332c6e3,State Route 198,Farmersville,CA,
+R0a20e73f-a288-4e7a-bb18-319fa17210ea,State Route 198,Lemon Cove,CA,
+R81e48fca-228a-422e-ab60-0a448a324a22,State Route 198,Sequoia National Park boundary,CA,
+R0c7a434d-3a39-4082-a7f4-68b9ff328396,U.S. Route 50,West Sacramento,CA,
+Rb7621377-65b7-4dfd-be88-e646408b49b0,U.S. Route 50,Sacramento,CA,
+R9e7a7489-ba92-483c-9c91-84dd2bef0142,U.S. Route 50,Rancho Cordova,CA,
+Rb530c749-43dc-45d7-904c-a1e42befb83d,U.S. Route 50,Folsom,CA,
+Ra4b1db5e-1923-4b9c-8ade-84d67e7a0c9c,U.S. Route 50,El Dorado Hills,CA,
+Rc3ab4a3f-6ec4-43a0-b12e-1eaef8b2f905,U.S. Route 50,El Dorado Hills–Cameron Park line,CA,
+R5ad0a3d8-723c-4b0d-b1f2-0506cda2ceb0,U.S. Route 50,Cameron Park,CA,
+Rf3ffc15d-dba7-4073-9005-3e5cfa529c47,U.S. Route 50,Shingle Springs,CA,
+R4a92ee64-6586-4677-b30e-79db04a139f2,U.S. Route 50,Diamond Springs,CA,
+Rdc9f02c6-cd02-4fa8-97b8-49c580aa21d8,U.S. Route 50,Placerville,CA,
+R4c9033f6-d266-4fc3-b4e0-caa6ef90055c,U.S. Route 50,Camino,CA,
+Rbe2e0125-4c75-49cf-b5d0-475416cc5999,U.S. Route 50,Pollock Pines,CA,
+R529b3a7a-38ca-40a4-a2a5-14bb6c319aa4,U.S. Route 50,Meyers,CA,
+R75bb9938-d646-49c4-b526-e07b264a8808,U.S. Route 50,South Lake Tahoe,CA,
+Rdf371085-bcba-4647-890a-1a1e3bc130b1,State Route 237,Mountain View,CA,
+R196a5375-16a2-470c-a8e4-b03aba441438,State Route 237,Sunnyvale,CA,
+R138f8b0b-03d7-494e-9366-fee5ec33beaa,State Route 237,Santa Clara,CA,
+R53077738-a77f-44da-8efa-2f8fff635226,State Route 237,San Jose,CA,
+Rb195e03a-5922-40d7-8d1b-26697bd3e5f5,State Route 237,Milpitas,CA,
+R5e9cf181-42f7-4c04-9530-c2915e7e9be7,State Route 41,Morro Bay,CA,
+Rb8a3d9c1-2c70-4a04-80fc-29b2010a7394,State Route 41,Atascadero,CA,
+R61a96d45-da7f-4612-8426-26ca64171ab4,State Route 41,Shandon,CA,
+R46580ffe-dd1b-4635-9181-e60120ed8e92,State Route 41,Cholame,CA,
+R1e6ae9bb-cc14-4710-ad3e-e6e1b7d81745,State Route 41,Lemoore,CA,
+Re95a8d03-6e0e-465f-bf8e-5abe4a820523,State Route 41,Fresno,CA,
+R7d1fa342-97de-4b9d-9f73-c33f932ca812,State Route 41,Oakhurst,CA,
+Ra40d03a7-0f68-4503-bd14-ac19851c1d10,State Route 12,Sebastopol,CA,
+R899d7799-0d10-4860-af97-18990393d77b,State Route 12,Santa Rosa,CA,
+Redfb76dd-0199-436d-acdd-1ba938e32e83,State Route 12,Schellville,CA,
+R48fc0869-fa75-4ca0-9a6c-8519a6e6774b,State Route 12,Napa,CA,
+R2df80320-0839-4ae0-b2bc-306e7bbafc74,State Route 12,Fairfield,CA,
+R1fbbe8aa-c44a-419b-87e1-5641b85e2c36,State Route 12,Suisun City,CA,
+R26fa13cb-f904-457f-8ecb-9c46bac5d0da,State Route 12,Rio Vista,CA,
+R33bac13d-78f2-47be-8f45-b2610de9f54e,State Route 12,Lodi,CA,
+Rbda341fc-628a-46f7-b1f0-ea1d687caac4,State Route 12,Lockeford,CA,
+R4162a599-cb5f-44f1-8ec6-eb6b5fb5945f,State Route 12,Clements,CA,
+R613e302e-7657-4484-b1bc-f77176ad1c93,State Route 12,Valley Springs,CA,
