@@ -1,4 +1,10 @@
-# California City to City Lowest Cost Routing Application 
-## Compiling over 500 cities and 24 interstates and state routes within CA we can route between all major cities
+# Map routing application
+## This application compiles most cities in California and major roads
 
-This application uses a directed graph to represent over 500 cities in california. Edges connect these cities between 24 high traffic highways. Routing is performed with dijkstra's algorithm 
+This application generates directions between cities in california using a custom routing implementation. 
+
+## Help Needed For: 
+
+- Developing API to return directions
+- CSV file of roads with city points on them and length from start of the road. You can look at CA PostMile tool to try and get this data if possible.
+- DB schema for storing the roads and cities
